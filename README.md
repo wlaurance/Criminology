@@ -43,73 +43,74 @@ Improvee discussion abilities
 
 ##Course Assignments:
 
-1 Class Attendance, Participation, In-Class writing & pop quizzes:
-Class attendance is expected.  If you must miss a class for any
-reason, you should alert Professor Ousey in advance of your absence
-and provide valid official documentation (e.g., note from doctor,
-attorney, judge, etc.) of the reasons for your absence.  Missed
-assignments may be excused at the discretion of the Professor,
-but not without valid documentation indicating the reason for your
-absence.  
+  1. Class Attendance, Participation, In-Class writing & pop quizzes:
+  Class attendance is expected.  If you must miss a class for any
+  reason, you should alert Professor Ousey in advance of your absence
+  and provide valid official documentation (e.g., note from doctor,
+  attorney, judge, etc.) of the reasons for your absence.  Missed
+  assignments may be excused at the discretion of the Professor,
+  but not without valid documentation indicating the reason for your
+  absence.  
 
-Assigned readings for each section of the course are listed in the
-topical outline presented below.  It is expected that students will
-thoroughly read and prepare to discuss these readings prior to the
-date in which they are listed on the course outline.  Some readings may
-not be explicitly discussed in class, but students are fully
-responsible for all assigned material on exams.  
+  Assigned readings for each section of the course are listed in the
+  topical outline presented below.  It is expected that students will
+  thoroughly read and prepare to discuss these readings prior to the
+  date in which they are listed on the course outline.  Some readings may
+  not be explicitly discussed in class, but students are fully
+  responsible for all assigned material on exams.  
 
-Short in-class writing assignments that provide instant assessment of
-understanding, that reinforce course lessons or that engage
-critical-thinking skills will be used periodically.  In-class writing
-assignments are part of the class participation contribution
-on the date that they are given.  Therefore, missed in-class
-assignments cannot be made up.  Class attendance, participation
-and in-class writing is worth 30 points.  
+  Short in-class writing assignments that provide instant assessment of
+  understanding, that reinforce course lessons or that engage
+  critical-thinking skills will be used periodically.  In-class writing
+  assignments are part of the class participation contribution
+  on the date that they are given.  Therefore, missed in-class
+  assignments cannot be made up.  Class attendance, participation
+  and in-class writing is worth 30 points.  
 
-2 Readings Journal: Students will keep a readings journal throughout
-the semester.  In this journal, it is expected that students will
-write down their reactions to and reflections on the assigned
-readings for each week.  Journal entries are somewhat open-ended in that
-students have freedom to choose what to write about in response to
-the readings.  Some possibilities include, but aren’t limited to:
-  * relating the content of the article to an event in your life
-experience; 
-  * relating content to current events in the world; 
-  * critical commentary about why the articles or research presented in
-the article; 
-  * points of confusion or questions that you have about
-the article and its content, and so on.  Reading journal entries
-should be dated and will generally be in the 1-2 page range.
-Hardcopies of typed readings journal entries are due on the last day
-of class for the semester.  The readings journals are worth 60
-points.  
+  2. Readings Journal: Students will keep a readings journal throughout
+  the semester.  In this journal, it is expected that students will
+  write down their reactions to and reflections on the assigned
+  readings for each week.  Journal entries are somewhat open-ended in that
+  students have freedom to choose what to write about in response to
+  the readings.  Some possibilities include, but aren’t limited to:
+    * relating the content of the article to an event in your life
+  experience; 
+    * relating content to current events in the world; 
+    * critical commentary about why the articles or research presented in
+  the article; 
+    * points of confusion or questions that you have about
+  the article and its content, and so on.  Reading journal entries
+  should be dated and will generally be in the 1-2 page range.
+  Hardcopies of typed readings journal entries are due on the last day
+  of class for the semester.  The readings journals are worth 60
+  points.  
 
-3 Exams: There will be three exams in the course.  The format of the
-exams will consist of some combination of objective-format questions
-(e.g., multiple-choice, true-false, etc.) and short-answer/essay
-questions. Each exam (including the final) is worth 150 points
-(Exams=450 points in total).
- 
+  3. Exams: There will be three exams in the course.  The format of the
+  exams will consist of some combination of objective-format questions
+  (e.g., multiple-choice, true-false, etc.) and short-answer/essay
+  questions. Each exam (including the final) is worth 150 points
+  (Exams=450 points in total).
+   
 
-4 “Fishbowl” Time: Students will be assigned to groups of 4-5.  On
-scheduled Fridays, two groups will spend roughly 20 minutes each
-“in the fishbowl”.  That is, the assigned groups will be responsible
-for leading the discussion of a particular assigned reading.  In
-advance of their fishbowl day, the designated groups should meet
-to discuss their article and to develop 4-5 high-quality questions
-that will be used to engage the rest of the class in a discussion.
-These questions can pertain directly to the content of the assigned
-article or to material that is closely related and should be familiar
-to students (e.g., current events, aspects of pop culture).  We
-will spend about 20 minutes in a discussion (for each group)
-organized around these questions. The designated group should turn
-in their discussion questions at the end of their period in the
-fishbowl.  Fishbowl time activities are worth 60 points.   
+  4. “Fishbowl” Time: Students will be assigned to groups of 4-5.  On
+  scheduled Fridays, two groups will spend roughly 20 minutes each
+  “in the fishbowl”.  That is, the assigned groups will be responsible
+  for leading the discussion of a particular assigned reading.  In
+  advance of their fishbowl day, the designated groups should meet
+  to discuss their article and to develop 4-5 high-quality questions
+  that will be used to engage the rest of the class in a discussion.
+  These questions can pertain directly to the content of the assigned
+  article or to material that is closely related and should be familiar
+  to students (e.g., current events, aspects of pop culture).  We
+  will spend about 20 minutes in a discussion (for each group)
+  organized around these questions. The designated group should turn
+  in their discussion questions at the end of their period in the
+  fishbowl.  Fishbowl time activities are worth 60 points.   
 
 ##Grades:
 The grading scale used in assigning letter grades will be based upon
 the percentage of the 600 possible points that you earn as follows:
+```
 A = 93% or higher 
 A- = 90% to 92%
 B+ = 87% to 89%
@@ -123,6 +124,7 @@ D+= 67% to 69%
 D = 63% to 66%
 D-= 60% to 62%
 F = 59% or below    
+```
 
 ##Course Schedule:
 An outline of topics, reading assignments (in bold print), debates,
