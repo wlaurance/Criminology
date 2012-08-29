@@ -4,11 +4,11 @@ SOCL 302: Criminology
 Fall, 2012
 
 ##Required Materials:
-1 Crutchfield, Robert D., Charis E. Kubrin, George S. Bridges &
-Joseph G. Weis. 2008. Crime: Readings. 3rd. Edition. Sage Publications.
+  1. Crutchfield, Robert D., Charis E. Kubrin, George S. Bridges &
+  Joseph G. Weis. 2008. Crime: Readings. 3rd. Edition. Sage Publications.
 
-2 Research articles posted on Blackboard.  See listing in “Course
-Schedule” section below.  
+  2. Research articles posted on Blackboard.  See listing in “Course
+  Schedule” section below.  
 
 ##Course Description:
 The purpose of this course is to introduce and explore substantive
