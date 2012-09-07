@@ -48,6 +48,7 @@ label. Potential enforcement bias by race and class. a "Profile"
 Placing limits on utilzation of law to regulate morality
 ---------------------------------------------------------
 Herbet Packer's _The Limits of the Criminal Sanction_ 
+
 1. Behavior is socially threatening to most
 2. Behavior can be addressed though fair and non-discriminatory
 3. Controlling the behavior will not severely strain the criminal
