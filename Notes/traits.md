@@ -24,3 +24,16 @@ How do individuals become psychopaths?
 --------------------------------------
 * Heredity
 * Childhood victimization/maltreatment
+
+Crime and Human Nature
+----------------------
+Individuals differ innately in
+  1. Perceptions & experience of the risks and rewards associated with
+     criminal behavior
+  2. Ability to internalize prohibitions against crime
+  3. Willingness to defer gratification
+
+Self-Control Theory - Gottfredson & Hirschi
+-------------------------------------------
+Suggests crime is caused by 1 master variable "low self-control"
+Stable individual-differences, therefore "propensity"
