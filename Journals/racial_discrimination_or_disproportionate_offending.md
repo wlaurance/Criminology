@@ -43,6 +43,6 @@ brutality. Thus I am not sure if the racial profiling is as high as it
 was 15 years ago.
 
 From the data in the article, I can easily conclude that blacks are
-targeted because there involvement in crime is higher. Like any casino
+targeted because thier involvement in crime is higher. Like any casino
 game wouldn't you put your money on the most likely outcome?
 
