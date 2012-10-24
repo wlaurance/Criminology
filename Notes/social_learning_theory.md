@@ -34,27 +34,37 @@ learned through three laws of imitation:
 
 ## Techniques of Neutralization
 How can we violate laws that we believe in?
-  *  Gresham Sykes and David Matza
-    * We learn "techniques of neutralization"
-      * Cognitive and verbal strategies that allow us to rationalize our
-        "deviant" life to the world of conformity.
-    * T.O.N. "theory" recognizes that deviates live in, and often
-      in-between worlds of conformity and nonconformity
-  1. Denial of responsibility - person recognizes that the act is wrong,
-     but denies their responsibility
-     * "the devil made me do it"; "it was an accident, I didn't mean it"
-  2. Denial of injury - person admits they did something, but denies
-     that anyone was harmed.
-     * Smoking marijuana does not hurt anyone
-  3. Denial of Victim - person admits act is considered "wrong" but
-     feels it was justified; victim seen as deserving
-     * vigilante justice; hate crimes
-  4. Condemning the condemners - denying or deflecting blame/guilt by
-     attacking credibility or character of those who accuse or pass
-     judgment.
-     * "look who is talking"; "you got no room to judge"; "are there no
-       skeletons in your closet"
-  5. Appeal to higher loyalties - excusing one's behavior by claiming an
-     unselfish motive.
-     * Dont to aid others or a larger cause
-       * terrorist activites
+Gresham Sykes and David Matza
+  * We learn "techniques of neutralization"
+    * Cognitive and verbal strategies that allow us to rationalize our
+      "deviant" life to the world of conformity.
+  * T.O.N. "theory" recognizes that deviates live in, and often
+    in-between worlds of conformity and nonconformity
+1. Denial of responsibility - person recognizes that the act is wrong,
+   but denies their responsibility
+   * "the devil made me do it"; "it was an accident, I didn't mean it"
+2. Denial of injury - person admits they did something, but denies
+   that anyone was harmed.
+   * Smoking marijuana does not hurt anyone
+3. Denial of Victim - person admits act is considered "wrong" but
+   feels it was justified; victim seen as deserving
+   * vigilante justice; hate crimes
+4. Condemning the condemners - denying or deflecting blame/guilt by
+   attacking credibility or character of those who accuse or pass
+   judgment.
+   * "look who is talking"; "you got no room to judge"; "are there no
+     skeletons in your closet"
+5. Appeal to higher loyalties - excusing one's behavior by claiming an
+   unselfish motive.
+   * Dont to aid others or a larger cause
+     * terrorist activites
+
+## Ronald Akers' Social Learning Theory
+
+Sutherland suggests that all the mechanisms of learning are present in
+learning crime. Akers asks *What are the mechanisms?*
+
+Develops theory that retains principles of differential association
+theory and combines them with conditioning theories from psychology
+
+
