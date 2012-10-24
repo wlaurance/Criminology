@@ -35,11 +35,11 @@ learned through three laws of imitation:
 ## Techniques of Neutralization
 How can we violate laws that we believe in?
 Gresham Sykes and David Matza
-  * We learn "techniques of neutralization"
-    * Cognitive and verbal strategies that allow us to rationalize our
-      "deviant" life to the world of conformity.
-  * T.O.N. "theory" recognizes that deviates live in, and often
-    in-between worlds of conformity and nonconformity
+* We learn "techniques of neutralization"
+  * Cognitive and verbal strategies that allow us to rationalize our
+    "deviant" life to the world of conformity.
+* T.O.N. "theory" recognizes that deviates live in, and often
+  in-between worlds of conformity and nonconformity
 1. Denial of responsibility - person recognizes that the act is wrong,
    but denies their responsibility
    * "the devil made me do it"; "it was an accident, I didn't mean it"
