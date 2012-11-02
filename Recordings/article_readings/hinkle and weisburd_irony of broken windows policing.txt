@@ -1,0 +1,990 @@
+The irony of broken windows policing: A micro-place study of the relationship
+between disorder, focused police crackdowns and fear of crime
+Joshua C. Hinkle a,⁎, David Weisburd b,c
+a
+b
+c
+
+Department of Criminology and Criminal Justice, University of Maryland, College Park, 2220 LeFrak Hall, College Park, MD 20742, United States
+Institute of Criminology, Faculty of Law, Hebrew University of Jerusalem, Israel
+Administration of Justice Department, George Mason University, Bull Run Hall Room 301a, 10900 University Boulevard MS 4f4, Manassas, VA 20110, United States
+
+In their seminal “Broken Windows” article in Atlantic Monthly, J. Q. Wilson and G. L. Kelling (1982) suggested
+that police could more effectively ﬁght crime by targeting minor offenses. They hypothesized that untended
+disorder increases fear of crime in a community, starting a chain of events that eventually leads to
+heightened levels of crime. By targeting disorder, police can thus circumvent this cycle of neighborhood
+decline (Skogan, 1990). This study aimed to improve knowledge of the relationship between disorder and
+fear of crime in the context of the broken windows hypothesis by using a micro-place level research design
+involving a police crackdown on disorder and minor crime at hot spots. The results of the current study
+suggest that perceived social disorder and observed levels of physical disorder have a strong impact on fear of
+crime. This conﬁrms the relationship between disorder and fear hypothesized by the broken windows
+literature, and implies that police may be able to reduce fear of crime by reducing disorder. It was also found,
+however, that the police intervention itself signiﬁcantly increased the probability of feeling unsafe.
+Accordingly, any fear reduction beneﬁts gained by reducing disorder may be offset by the fact that the
+policing strategies employed simultaneously increase fear of crime. These ﬁndings suggest the importance of
+a careful focus on “how” broken windows policing programs are implemented. Such programs must be
+geared not only to reduce disorder, but also to prevent increases in citizen fear that accompany crackdowns
+and other intensive enforcement efforts associated with broken windows policing.
+© 2008 Elsevier Ltd. All rights reserved.
+
+Introduction
+Broken windows policing has emerged as one of the most
+important policing strategies of the past two decades (Bratton &
+Knobler, 1998; Giuliani & Kurson, 2002; Karmon, 2000; Kelling &
+Sousa, 2001; Maple & Mitchell, 1999; Silverman, 1999; Weisburd &
+Braga, 2006). Its main thesis is that the targeting of disorder and
+nuisance crimes (which generally gained little police attention in the
+reactive, professional model of policing) provides the key to the longterm reduction of violent crime. Broken windows policing was ﬁrst
+broached in a seminal article by James Q. Wilson and George Kelling
+published in the Atlantic Monthly in 1982. The idea of broken windows
+policing, however, can be traced more generally to what some have
+called the incivilities thesis (Taylor, 1999a). The incivilities thesis
+posits that disorder in a community leads to fear of crime among
+residents, which in turn leads them to withdraw from the community.
+
+The result is a decline in the neighborhood's level of informal social
+control which is hypothesized to cause crime in the area to increase in
+frequency and severity.
+Scholars who have advocated broken windows policing have not
+suggested a speciﬁc strategy for police to prevent decline in
+communities. Rather, they have identiﬁed a series of methods that
+focus on reducing decline through police crackdowns on minor
+offenses and disorder (Kelling & Sousa, 2001). Such methods have
+included issuing citations and arrests for disorderly behavior, loitering, and any number of other disorders and minor crimes that the
+police are likely to ignore in standard policing practices (e.g., Kelling &
+Sousa, 2001; Worrall, 2002). Strategies have also included problemoriented policing methods designed to get at the root causes of these
+types of social disorders and/or to attack physical disorders, such as
+dilapidated buildings and abandoned lots, through strategies such as
+code enforcement and community development (Kelling & Sousa,
+2001; Skogan, 1990).
+Looking at broken windows policing and the broken windows
+thesis, it is apparent that the link between disorder and fear is a key
+component. Using the logic of this hypothesis, if disorder is not linked
+to fear, citizens will be unlikely to withdraw from the community.
+
+Informal social controls will not be weakened, and criminals would
+not be expected to increase their activities in the neighborhood in the
+framework of this model. Thus without the link between disorder and
+fear, the underlying assumptions of the broken windows perspective
+are challenged. While past studies had examined the link between
+disorder and fear (for example, see Covington & Taylor, 1991;
+Markowitz, Bellair, Liska, & Liu, 2001; Robinson, Lawton, Taylor, &
+Perkins, 2003; Skogan, 1990) most of these studies examined the
+relationship in large geographic areas and/or not involved a police
+intervention. This is unfortunate as it is reasonable to assume that the
+level of disorder in one's immediate surroundings (i.e., the block on
+which an individual resides) is most apt to inﬂuence their level of fear
+as an individual will have the most direct exposure to events that
+occur in the areas where they spend most of their time.
+Additionally, it is important from the perspective of the broken
+windows thesis to examine the relationship between disorder and
+fear in the context of a police intervention involving crackdowns on
+disorder, as the thrust of Wilson and Kelling's (1982) seminal article
+was that police can better reduce fear and crime by targeting
+incivilities. While the broken windows idea certainly is relevant to
+the development of communities irrespective of policing approaches
+(see Skogan, 1990), Wilson and Kelling clearly saw the police as a
+central part of community efforts to prevent the cycle of fear and
+crime by targeting disorder, stating that “(t)hough citizens can do a
+great deal, the police are clearly the key to order maintenance” (p. 36)
+and that “we must return to our long abandoned view that the police
+ought to protect communities as well as individuals” (p. 38). As such,
+an important question to answer is whether focused police crackdowns in disorder hot spots can reduce fear of crime among residents
+of the targeted areas. As will be reviewed below, empirical studies of
+broken windows policing have focused on crime reduction and have
+not examined its impact on fear.
+The current study sought to focus speciﬁcally on the effect of police
+crackdowns on citizen fear of crime at a micro-place level of analysis.
+The use of observed measures of physical and social disorder as well as
+residents' perceptions of disorder on street segments allowed for an
+assessment of not only the effect of disorder on fear, but importantly,
+also allowed for an assessment of the impact that police efforts to
+reduce disorder have on fear of crime. The latter question is one that a
+number of scholars have raised in recent years, though to date there
+has been little systematic investigation on the impact of focused
+policing strategies on residents living in targeted areas (Braga, 2001;
+Rosenbaum, 2006; Weisburd, 2004; Weisburd & Braga, 2003).
+Rosenbaum (2006) notes that “[i]n some cases, the stigma of being a
+hot spot of crime may stimulate greater fear of crime among
+residents” (p. 254). This point is especially important in relation to
+broken windows policing strategies because, if true, it means that
+focused policing crackdowns on disorder may actually increase fear of
+crime, and thus offset any fear reduction beneﬁts that may be gained
+by reducing disorder.
+The incivilities thesis
+Wilson and Kelling (1982) suggested that untended disorder
+makes residents fearful as they conclude that social control has
+broken down in the neighborhood. Thus residents eventually withdraw from the community, lowering the level of informal social
+control. This in turn causes more disorder to occur, and may even
+cause crime to increase as local criminals step up their offending as
+they conclude that social control is low and that their chances of being
+caught are slim. As the cycle worsens, criminals from outside areas
+may move their activities into the neighborhood as they too may
+perceive their risk of capture to be low. Wilson and Kelling's (1982)
+hypothesis is interpreted graphically below in Fig. 1.
+While a link between disorder and fear of crime is interesting on its
+own merits, it is even more crucial to understand as it is a major
+
+Fig. 1. The broken windows hypothesis.
+
+component of various versions of the incivilities thesis (Kelling &
+Coles, 1996; Skogan, 1990; Wilson & Kelling, 1982), which have had a
+large impact on policing strategies over the past two decades. Wilson
+and Kelling (1982) argued that simple disorder indicators, like broken
+windows, can foster crime in a community if left untended. As such,
+they suggested that police should focus resources on cracking down
+on disorder and minor crimes before they cause serious crime
+problems to arise in a neighborhood.
+While broken windows theories emphasize the importance of the
+link between disorder and fear of crime, a review of the literature
+suggests that interest in the topic was not introduced by broken
+windows theorists, but rather was sparked in large part by numerous
+studies which found that fear of crime did not appear to be linked to
+ofﬁcial crime rates or actual victimization risks. This conclusion was
+best illustrated by studies that found that the groups in society who
+were the most fearful of crime were older residents and females (see
+Ferraro, 1995, chapters 6 and 7, for a review of literature on these
+topics). This generated interest in the topic as younger males have
+consistently been found to be the most victimized age/gender group
+(as well as the most active offending group) in the National Crime
+Surveys conducted by the Bureau of Justice Statistics (2005).
+Other studies compared crime rates and levels of fear across
+neighborhoods and found that the level of fear was not clearly
+correlated with the neighborhoods' level of crime, as the highest
+crime areas did not exhibit the highest levels of fear (Lewis & Salem,
+1986). The notion that fear of crime is not tied to crime rates or
+victimization risks was further supported by the observation that
+although fear goes up as crime goes up, it does not fall as rapidly when
+crime declines (Taylor & Hale, 1986). These ﬁndings naturally led
+criminologists to question what factors were driving fear of crime if it
+was not just actual victimization risk or neighborhood crime rates.
+Much research on this topic suggested that fear of crime may be
+more inﬂuenced by minor crimes and other public nuisances that
+many have termed disorder or incivilities. Wilson (1975) suggested
+that people are not only troubled by crimes but also by:
+The daily hassles they are confronted with on the street—street
+people, panhandlers, rowdy youths, or ‘hey honey’ hassles—and
+the deteriorated conditions that surround them—trash strewn
+alleys and vacant lots, grafﬁti, and deteriorated or abandoned
+housing—inspire concern. (p. 66)
+Similarly, Garofalo and Laub (1978) stated that “…what has been
+measured in research as the ‘fear of crime’ is not simply fear of
+crime” (p. 245) and tie fear to quality of life and concern for the
+community. Hunter (1978) formulated a model through which
+disorder and incivilities affected both crime and fear of crime.
+Hunter hypothesized that disorder and incivilities produce fear in
+residents because they feel that the external agencies of control have
+failed to preserve the order. Thus as residents perceive that matters
+are out of the control of local agencies, they begin to feel personally
+at risk of victimization. Hunter also suggested that this will increase
+crime, which in turn will further increase fear. Hunter's work can be
+viewed as the groundwork for the broken windows thesis (Wilson &
+Kelling, 1982).
+
+
+Support for the relationship between disorder and crime
+While many argue that there is strong theoretical support for the
+broken windows perspective (Kelling & Coles, 1996), the argument has
+also been subject to substantial critique. Sampson and Raudenbush
+(1999) and Harcourt (2001) have argued that there is not evidence of a
+direct relationship between disorder and more serious crime, and that
+this lack of a direct relationship is a major blow to the broken windows
+hypothesis. This is a reasonable criticism as the lack of a relationship
+between disorder and crime would essentially refute the utility of
+policing strategies focusing on disorder. More recent work has
+responded to this critique by stating that broken windows theory
+does not argue for a direct relationship between disorder and crime,
+but rather that the theory has always asserted that the relationship is
+indirect through fear of crime and its accompanying impact on
+informal social controls (Bratton & Kelling, 2006; Xu, Fiedler, &
+Flaming, 2005).
+Longitudinal work has also challenged the link between disorder
+and crime. Ralph Taylor (1999b, 2001) assessed the link between
+disorder and crime in his study of street blocks in Baltimore with
+panel data collected thirteen years apart. While Taylor found evidence
+of a link between disorder and crime, he argued that disorder did not
+have a particularly strong impact on block-level crime changes over
+time when compared with initial community structure or crime rates.
+In another study using sixteen years of census block-level data
+collected in Seattle, Yang (2007) found that the trends between violent
+crime and disorder were correlated. The direction of causation,
+however, was opposed to what was suggested by the broken windows
+thesis. The results from Granger causality tests generally showed no
+causal relationship between disorder and violence, and in a few
+places, the causality appeared to run from violent crime to disorders.
+Support for the relationship between disorder and fear
+While the above discussion centered on the relationship between
+disorder and crime, as noted earlier, the relationship between disorder
+and fear is a key link in the broken windows hypothesis and in every
+variation of the incivilities thesis. Several studies, including some of
+those mentioned above, examined the link between disorder and fear
+of crime. In general, these studies found support for a link between
+disorder and fear (Covington & Taylor, 1991; Markowitz et al., 2001;
+Robinson et al., 2003; Taylor, 1999b, 2001), and in some analyses,
+disorder was found to be the dominant effect in the model.
+These studies, however, had several important limitations. First,
+with the exception of Taylor's (1999b, 2001) block-level study in
+Baltimore, most studies that examined the relationship between
+disorder and fear of crime did so with a large geographic unit of
+analysis. It is reasonable to assume that an individual's level of fear is
+most likely to be determined by the levels of disorder, crime, and other
+factors in the areas where they spend most of their time. As such, a
+more micro-place unit of analysis centered on the street segment on
+which a resident lives is likely to be a more appropriate context for
+examining the impact of disorder on fear of crime. Second, these
+studies did not test the broken windows thesis in the context of a
+police intervention. The current study addressed these issues by
+examining residents' fear of crime at the street-segment level after an
+intensive police crackdown on minor offenses. This will be described
+in more detail below.
+
+505
+
+have been relatively few empirical studies of the impacts of broken
+windows policing efforts. Moreover, given the key role of fear in the
+broken windows thesis outlined above, it is unfortunate that empirical
+tests of broken windows policing have been largely limited to
+examining its impact on crime and disorder.
+For instance, Kelling and Sousa (2001) examined the relationship
+between misdemeanor arrests and crime in seventy-six New York City
+Police Department precincts from 1989-1998. To control for possible
+confounding they used a multivariate multilevel modeling approach
+in which the precincts were nested in city boroughs. Based on their
+ﬁndings, Kelling and Sousa estimated that one violent crime was
+prevented for every twenty-eight disorder arrests in New York City.
+This would account for 60,000 violent crimes prevented in NYC from
+1989-1998. In work taking a different approach to the issue Golub,
+Johnson, and Taylor (2003) conducted interviews with NYC arrestees
+in 1999 and found that most were aware of the police crackdown on
+disorder and that nearly half had reported stopping or cutting back on
+their disorderly behavior as a result. As such, they suggested that
+broken windows policing has a deterrent impact.
+Other studies, however, were less favorable. For example, in an
+analysis of data from NYC in the 1990s, Harcourt and Ludwig (2006)
+challenged the conclusions of Kelling and Sousa (2001) by suggesting
+that the crime declines they attributed to broken windows policing
+were likely due to simple mean reversion. Another study analyzed
+data from NYC from 1988-2001 and found that while ordermaintenance policing did have signiﬁcant impacts on robbery and
+homicide rates, the reductions were relatively modest (Rosenfeld,
+Fornango, & Rengifo, 2007). Yet another study of NYC's use of ordermaintenance policing in the 1990s found the tactic had a signiﬁcant
+effect on gun-related homicide, but not for murders not involving a
+ﬁrearm (Messner et al., 2007). In addition to this mixed empirical
+evidence, other scholars have argued that the crime decline in NYC
+during the 1990s simply mirrored national trends and was likely a sign
+of such factors as the decline of the crack cocaine epidemic rather than
+any policing efforts (Eck & Maguire, 2000). In this regard, Messner
+et al. (2007) found that changes in cocaine use were related to crime
+rates over this period, but that order-maintenance policing still had a
+signiﬁcant impact on gun-related homicides after controlling for
+changes in drug use.
+Finally, empirical studies in areas besides NYC have reported
+limited evidence of the effectiveness of broken windows policing. For
+instance, Sherman (1990) found that increased enforcement of public
+drinking laws and parking regulations had no impact on serious
+crime; Novak, Hartman, Holsinger, and Turner (1999) found that
+increased patrols for disorderly behavior did not reduce burglary or
+robbery rates; and Katz, Webb, and Schaefer (2001) found that
+quality-of-life policing reduced disorder and public morals offenses
+such as prostitution, but had no impact on crime. Worrall (2002), on
+the other hand, found misdemeanor arrests and ﬁlings to be
+signiﬁcantly and negatively related to the property crime rate in a
+county-level study in California.
+A possible reason for the equivocal evidence on the effectiveness of
+broken windows policing is that the broken windows thesis does not
+provide a clear model for when crime will be reduced. As such, studies
+that failed to ﬁnd a direct impact of disorder policing on crime in this
+context may be criticized for not taking a “long enough view” of
+community change. For this reason, it is crucial to examine a critical
+intervening variable in the broken windows policing model—the
+effect of these policing efforts on citizen fear of crime.
+
+Broken windows policing
+Past studies of police impact on fear
+While broken windows policing is widely perceived as an
+important and effective new policing strategy, and has been given
+credit in good part for the crime drop in New York City in the 1990s
+(Bratton & Knobler, 1998; Giuliani & Kurson, 2002; Karmon, 2000;
+Kelling & Sousa, 2001; Maple & Mitchell, 1999; Silverman, 1999), there
+
+Some past studies have examined the impact police can have on
+fear. Speciﬁcally, many studies of community-oriented policing have
+found effects on fear of crime even when effects on crime were lacking
+(see Committee to Review Research on Practice and Policy, 2004;
+
+
+Weisburd & Eck, 2004 for reviews). Additionally, some police
+programs were designed with fear reduction in mind and empirical
+evaluations revealed that such efforts can reduce citizen fear (for
+example, see Cordner, 1986). Studies of other types of police strategies
+such as use of military gear and tactics, however, have been found to
+increase fear of crime (Kraska & Kappeler, 1997). As such it is apparent
+that what the police do is likely to have an impact on residents' fear of
+crime, and the type of tactics employed may determine whether this is
+a positive or negative impact.
+Unfortunately, as noted above, evaluations of broken windows
+policing programs have neglected testing its impacts on fear of crime.
+Additionally, the impact of speciﬁc policing strategies on residents of
+targeted areas in general is lacking in past studies, as noted in recent
+reviews and commentaries (Braga, 2001; Rosenbaum, 2006; Weisburd,
+2004; Weisburd & Braga, 2003). As mentioned above, Rosenbaum
+(2006) even suggested that labeling an area a “hot spot” for crime and/or
+disorder may instill fear among residents in and of itself. This is a crucial
+issue for broken windows policing as the strategy is likely to involve
+cracking down on disorder and minor crimes in areas exhibiting high
+levels of these phenomenon. If the police strategy itself increases fear of
+crime, it may well offset any fear reduction beneﬁts gained by the police
+crackdown lowering the level of disorder. The current study allowed for
+an assessment of this issue.
+The current study
+The above review of the literature on the broken windows
+hypothesis/incivilities thesis shows that the suggested link between
+disorder and fear is a key component of the theory. If this link is not
+present, the theory is challenged as the rest of the causal chain of
+events is unlikely to occur as hypothesized without this link. Disorder
+may still be related to crime, but if it does not impact fear of crime,
+then it is not related to crime in the speciﬁc manner suggested by
+Wilson and Kelling (1982). In such a case, the focusing of police
+resources on disorder may be misguided and unlikely to have the
+intended impacts on fear and serious crime, even if the police are able
+to reduce disorder. The current study examined the link between
+disorder and individual fear of crime at the micro level following a
+police crackdown on disorder in an effort to better understand the
+relationship between these variables in the context of the broken
+windows thesis.
+Data for the analyses in this article are drawn from a larger study
+that focused on displacement and diffusion outcomes resulting from
+police crackdowns on crime hot spots in Jersey City, New Jersey
+(Weisburd et al., 2004, 2006). Two small target areas consisting of
+twenty-one and twelve street segments respectively were identiﬁed
+for intervention, on the basis of there being a signiﬁcant street
+prostitution problem in the ﬁrst area and a drug and violent crime
+problem in the second. Special units were assigned to each of these
+areas for an experimental period, and a variety of police activities
+including crackdowns and opportunity reducing interventions (e.g.,
+street closures or closing down of abandoned buildings) were brought
+to each target area. While the program did not deﬁne itself as taking a
+broken windows policing approach, it did focus strongly on reducing
+disorder-related activities and incivilities in the areas targeted. For
+each of these sites, catchment areas for measuring displacement and
+diffusion of sixty-nine and sixty-seven street segments respectively
+were deﬁned and included in data collection efforts. These catchment
+areas did not gain extra police presence, and police activities were
+carefully monitored to avoid spillover of policing strategies into the
+catchment areas.
+The design of the original study provided an opportunity to
+examine how intensive police crackdowns geared to reducing
+disorder and crime inﬂuence ordinary citizens living on the street
+blocks affected as compared with street segments that did not receive
+any special police intervention. Target areas and catchment areas in
+
+the original study, however, were not necessarily similar in their
+characteristics. Indeed, there were important differences described by
+Weisburd et al. (2006). For example, in the prostitution site a part of
+the catchment area included large public housing complexes, while
+there were many fewer residential addresses in the target area. In the
+drug and violent crime site, the characteristics of the three areas were
+more similar. As described below, regression techniques were used to
+control for prior differences in the targeted and catchment areas in the
+analyses in this study.
+The police intervention
+As noted, the police intervention delivered in the displacement
+and diffusion project was not explicitly designed as a broken windows
+approach. In practice, however, the police activities were consistent
+with the broken windows policing approach as they involved
+intensive crackdowns on drug activity, prostitution, and street-level
+social and physical disorder. In the prostitution site, a team of seven
+ofﬁcers were assigned to implement a multifaceted strategy that
+included: removing prostitutes from the street, conducting reverse
+stings with female ofﬁcers posing as prostitutes to arrest johns for
+solicitation (seven reverse stings were conducted during the project,
+resulting in twenty to thirty arrests each time), motor vehicle stops,
+efforts to clean up physical disorder in problem areas such as vacant
+lots that were used by prostitutes, and working with public works to
+close off streets to through trafﬁc in an effort to make it more difﬁcult
+for johns to cruise through the area.
+Similarly, in the drug and violent crime site, a wide-ranging
+intervention was delivered that targeted drug and disorder problems.
+A nine-ofﬁcer narcotics task force was created to deliver the
+intervention, and the department also increased regular patrols in
+the target area. A violent offender removal program was also
+instituted to get violent offenders out of the neighborhood. In addition
+to these strict crackdowns on crime and disorderly behavior, police
+also utilized code enforcement to pressure businesses and property
+owners to clean up physical disorder problems in the target area, as
+well as instituting a neighborhood beautiﬁcation program which
+cleaned up an area and built a basketball court.
+In sum, while not explicitly broken windows policing, the police
+activities in both study sites were consistent with the concept. The
+program involved a large increase in police presence in very small
+target areas and paid a great deal of attention to cracking down on
+social and physical disorder. Importantly, the results presented in the
+displacement and diffusion study revealed that the police program led
+to a large reduction in disorder in both target sites (Weisburd et al.,
+2006). For example, after adjusting for seasonal trends it was found
+that observed social disorder in the drug and violent crime
+site declined by 60 percent after the intervention had been delivered
+(t = -4.76, p-value ≤ .001). Similar declines were seen in the catchment
+areas which did not receive the police treatment, suggesting a
+diffusion of beneﬁts of the intervention into the nontargeted areas.
+Data and variables
+The primary dependent variable, resident fear, along with social
+and demographic control variables was drawn from a residential
+survey. Importantly, though the survey was conducted pre- and postintervention, a panel design was not used. The current analysis was
+drawn from 733 interviews conducted during the post-intervention
+period. The pre-intervention survey was used to create a block-level
+measure of fear that was used as an overall control measure for
+preexisting differences in the study. A computerized telephone
+directory was used to identify telephone numbers in the target and
+catchment areas. Eligible participants were deﬁned as the ﬁrst person
+over the age of eighteen in each household who was willing to
+participate. Overall, a response rate of 72 percent was obtained. The
+
+
+interviewees were asked a variety of questions pertaining to crime
+and disorder on their block, as well as questions related to their level
+of fear and neighborhood satisfaction. Demographic information on
+the respondents, including age, race, and gender were also collected.
+A team of twelve trained1 research assistants collected social
+observations of crime, disorder, and external conditions (weather,
+trafﬁc, time, etc.). These social disorder measures were used as a
+control measure for the effect of actual disorder on fear. The data base
+contained a wealth of data on the social context of the street segments
+at the time of the police intervention. The observations were recorded
+in nine waves in each site and were randomly assigned by segment
+and time during each wave. Each observation lasted for twenty
+minutes, and the observer would sit at the center of the street
+segment they were observing and record every disorder that occurred
+on the coding sheet. Following the use of post-intervention measures
+of fear, the 664 social observations collected during the postintervention2 period were used in the current study. Observations
+were recorded in both the target and catchment areas of both sites.
+In addition to the social observations, another team of research
+assistants was trained to collect a series of observations on the
+physical conditions of the street segments included in the study.
+Again, these physical observations were used to control for actual
+block-level physical disorder. These observations included many items
+commonly termed physical disorder (Skogan, 1990). As with the social
+observations, these data were collected at the street-segment level.
+Three observers coded each segment independently. If their coding of
+a segment did not match, they then walked the segment again as a
+team, discussing areas where they disagreed to ensure that each
+segment was coded properly. The 169 physical observations collected
+in the post-intervention wave were used in the current study.
+The Planning and Research Bureau of the Jersey City Police
+Department provided ﬁve years (1996-2000) of police emergency
+call data. The data included all citizen and police-initiated calls for
+service over this period of time,3 including crime-related calls as well
+as other calls (for example, administrative police calls such as
+notifying dispatch of going on lunch break). Only crime calls were
+used in the current analysis.4
+Modeling fear of crime
+The main units of analysis in this study were the individual citizens
+who were included in the post-intervention resident interview survey.
+Some of the independent variables (observed disorder, crime, preintervention fear, and extra police presence), however, were measured
+at the street-segment level. The reasoning behind this was that the
+level of crime and disorder on a person's block was hypothesized in
+this analysis to likely be the most relevant variables for predicting
+resident's levels of fear. This is because residents are more likely to be
+aware of things happening in their immediate surroundings, rather
+than in larger geographic areas such as neighborhoods. Additionally,
+the questions on the resident interview survey speciﬁcally asked
+respondents about crime, disorder, etc. on their block, making the use
+of street-segment level crime and disorder data for independent
+variables even more appropriate.
+The dependent variable was a four-level ordinal measure of fear of
+crime created from responses to a variation of a standard fear question
+(see Ferraro, 1995 for review and comments). The question in the
+resident interview survey asked respondents how safe they felt
+walking alone outside at night on their block. Response options were
+“very unsafe, somewhat unsafe, somewhat safe, and very safe.” When
+creating the fear variable, this question was recoded so that “very
+unsafe” was the high point and “very safe” the low point to make
+interpretation of the results more intuitive.
+This question has recently come under attack, with critics arguing
+that it is a poor measure of fear of crime. Some have argued that this
+question taps more into perceptions of risk, than fear of crime (Farrall,
+2004; Farrall & Gadd, 2004; Ferraro, 1995). They suggest, instead, that
+fear of crime measures should tap into the emotional response to
+crime. This is an important issue, as it is possible that questions that
+tap into “emotional” fear of crime could lead to different results than
+questions which are more aptly described as measures of perceived
+risk rather than actual fear. For instance, perhaps some people
+perceive a high risk of being victimized on their block, yet still engage
+in their normal community activities, while a person who is “afraid” of
+crime is more likely to withdraw from the community in response to
+this fear. This issue should be explored in future research by including
+both fear and perceived risk measures in the same study, and judging
+whether choice of question leads to different results for the broken
+windows thesis. In the meantime, a perceived risk measure is
+appropriate in a study of the broken windows thesis as a reading of
+broken windows' literature implies that fear of crime is related to
+individuals' concerns about becoming victims of crime in their
+neighborhood that arise in response to signs of untended disorder
+in their neighborhood. Thus a measure of perceived risk can serve as a
+proxy for fear of crime. For simplicity's sake, this measure will be
+referred to as fear of crime in this article.
+Independent variables
+Several independent variables were included in the model. These
+included variables the broken windows/incivilities thesis literature
+linked to fear of crime, as well as a series of control variables. The main
+independent variables of theoretical interest were three measures of
+disorder and a variable representing extra police presence.
+Observed social disorder was measured at the street-segment level
+and was created by aggregating disorder items5 in the social
+observations data base from the post-intervention waves. These
+aggregations were then averaged by the number of observations
+during the corresponding wave to eliminate the confounding problem
+of different numbers of observations for each street segment due to
+the social observations being randomly assigned.
+Perceived social disorder was also included in the model as it is
+necessary for residents to actually be aware of disorder for it to have
+an impact on their level of fear. The measure of perceived social
+disorder was created by constructing a scale from ﬁve questions in the
+resident interview survey asking the respondent to rate how often ﬁve
+types of social disorder occurred on their block.6
+Observed physical disorder was created by summing items7 in the
+physical observation data base collected during the post-intervention
+wave. With the physical observation data, there was no need to
+average the variables before summing them to form the scale as each
+street segment received only one physical observation per wave.
+Extra police presence is a variable that identiﬁes whether or not the
+street segment was subject to the police crackdown. This variable
+allows for a test of the impact of the police intervention on fear of
+crime among residents of the targeted areas. In addition to these key
+variables, several control variables were also included in the model.
+Crime was included to control for the direct impact of street-level
+crime on resident fear and was created from police calls for service
+data.8 While earlier studies found that crime was not related to fear of
+crime, it is nevertheless an important part of the broken windows
+hypothesis and thus it remains an important variable to include in the
+model. Calls for service data from six months prior to the postintervention wave of the resident interview surveys were aggregated
+at the street-segment level.9 This was done as it was hypothesized that
+crime on a resident's block would be likely to inﬂuence their level of
+fear, and a six-month period prior to the interview would be
+sufﬁciently long to capture enough crime events at the street-segment
+level and not too long for residents to have forgotten them.
+Pre-intervention average fear was included because, as noted above,
+a panel design was not utilized in the displacement and diffusion
+study (Weisburd et al., 2004, 2006). Realizing it important for the
+
+analysis in this article to control for pre-intervention levels of fear, this
+issue was addressed by creating a measure of average fear on each
+street segment during the pre-intervention period. This variable was
+created by summing all the fear responses on a block and dividing by
+the number of respondents who completed the pre-intervention
+survey on that block. This measure of average fear in the preintervention period added conﬁdence that any differences in fear
+found in the analyses were not simply due to some areas having
+higher or lower levels of fear during both the pre- and postintervention periods.
+Direct and indirect victimization were included in the model as it
+was thought that the personal experience of individuals, as well as
+experiences of others in their neighborhood, with criminal victimization would be likely to impact their level of fear. Both are dummy
+variables representing whether the respondent reported their home
+being broken into or being personally attacked during the postintervention resident interview survey and whether they knew
+anyone who had been victimized by crime in their neighborhood,
+respectively.
+Lastly, a series of demographic control variables were also included
+in the model. These consisted of age; dummy variables for Black,
+Hispanic, other non-White; has children; and owns home; and variables
+that represented the number of years at current address and number of
+dependents.
+Table 1 below lists the descriptive statistics for all the variables
+discussed above.
+Findings
+The main research question examined in this study tested the
+relationship between disorder and fear of crime in the context of a
+focused police intervention by using post-intervention measures of
+disorder and crime as the main independent variables, while
+controlling for pre-intervention fear levels on each block. The broken
+windows thesis suggested that police could reduce crime by targeting
+disorder, as this should reduce resident fear of crime and withdrawal
+from the community. The effect of police intervention on fear of crime
+was also tested by including extra police presence as an independent
+variable in the analysis. As the police intervention signiﬁcantly
+reduced disorder as outlined above (see Weisburd et al., 2006 for
+full results) the broken windows hypothesis would expect that the
+intervention should have a signiﬁcant and negative effect on fear of
+crime. These relationships were tested using ordinal logistic regression,10 as fear of crime is measured as a four-level ordinal variable as
+
+outlined above (see Long, 1997).11 The results are shown in Tables 2a
+and 2b.12
+The results show that perceptions of social disorder13 are
+signiﬁcantly related to fear of crime. Those residents who perceive
+more social disorder are more fearful. The results also show that
+observations of physical disorder are signiﬁcantly and positively
+related to fear of crime. Observed social disorder is not signiﬁcant, but
+it is likely that this effect is mediated by perceptions of social disorder.
+A separate analysis was conducted and revealed that observed social
+disorder is signiﬁcantly related to residents' perceptions of disorder,
+supporting this mediation hypothesis. The victimization variables are
+related to fear of crime in the expected direction, but are not
+statistically signiﬁcant. Crime is not related to fear, conﬁrming the
+ﬁndings of past studies reviewed above.
+Thus the results support the link between disorder and fear of
+crime suggested by broken windows theorists. The ﬁndings also show,
+however, that extra police presence was signiﬁcantly and positively
+related to fear of crime. Thus those living in areas that received the
+extra police presence were more fearful than those in other areas,
+controlling for levels of crime, disorder, and fear on their block in the
+pre-intervention period and various other factors.14 This is troubling
+for policymakers as it suggests that any reduction in fear of crime
+resulting from broken windows style police crackdowns on disorder in
+hot spots may be reduced by the strategies themselves, at least
+partially offsetting these reductions.
+
+Magnitude of the relationships between disorder, police presence, and
+fear
+To further explore the issue at hand, it is necessary to examine and
+compare the magnitude of the relationships between disorder, extra
+police presence, and fear of crime. With an ordinal logistic regression
+model, one of the more intuitive ways to look at the magnitude of the
+impacts of covariates is to examine the predicted probabilities and the
+discrete change in predicted probabilities for the variables of interest
+(see Long, 1997). These are provided below in Table 3, and examine the
+difference in probabilities between segments at the minimum and
+maximum scores (as well as the minimum and midpoint scores) in
+total disorder, with all other covariates held at their means. Fear has
+been collapsed into “safe” (very safe or somewhat safe) and “unsafe”
+(very unsafe or somewhat unsafe) categories in Table 3 to ease
+interpretation. The table also examines the difference between areas
+that received extra police presence and those that did not, again
+holding all the other covariates at their means.
+The results in Table 3 tell a very interesting story. First, they provide
+strong evidence for the broken windows hypothesis' argument that
+disorder leads to fear of crime as the ﬁndings show that scoring the
+maximum on both perceived social disorder (a score of 15) and
+observed physical disorder (a score of 7) resulted in a probability of
+feeling unsafe that was approximately 57 percent higher than those
+scoring at the minimums. Of course it is important to note that this
+corresponds to a maximum change which is not particularly likely in
+the real world. This is especially true in terms of police interventions
+as it is unlikely for police to totally eradicate disorder in targeted
+areas.15 For this reason, the difference in moving from the minimum
+possible total disorder score to the midpoint (10 on perceived disorder
+and 3.5 on physical disorder) was also examined. A midpoint disorder
+score is tied to having a probability of feeling unsafe approximately
+25 percent higher compared to those living on a minimum disorder
+street segment. Following these results, it appears that police could
+reduce fear of crime by reducing the levels of social and physical
+disorder as argued in the broken windows literature. As such, one
+would expect the intervention delivered in this study to have reduced
+fear of crime given that it signiﬁcantly impacted the levels of disorder
+in the targeted sites.
+This is complicated, however, by the second half of the story shown
+in Table 3—living in an area that received the extra police presence
+(controlling for other factors in the model) was tied to having lower
+probabilities of feeling safe and higher probabilities of feeling unsafe.
+The results show living in an area that received extra police presence
+corresponded to having a probability of feeling unsafe that was
+approximately 27 percent higher than those living in a nontargeted
+area. To put this into perspective, recall that a street segment at the
+midpoint on total disorder, the probability of feeling unsafe was
+
+
+25 percent higher than a street segment at the minimum, while those
+segments at the maximum level of disorder had a probability
+57 percent higher.
+When considering this with the ﬁnding that the police presence
+increased probability of feeling unsafe by 27 percent, these results
+suggest that any reductions in fear of crime brought about by police
+targeting disorder may be largely offset in areas with moderate
+amounts of disorder, and at least partially offset in areas with severe
+levels of disorder, by the police intervention itself causing residents to
+become more fearful. Thus the types of policing strategies that evolved
+from the broken windows literature (i.e., zero tolerance policing and
+other types of crackdowns on disorder and minor crime) may have
+limited utility in reducing fear of crime. This is intriguing and is
+certainly an area that needs further research, as this is an important
+issue for police leaders.
+Discussion
+The ﬁndings presented in this study provide new data for
+understanding the broken windows hypothesis, and in particular, for
+considering the role of the police in reducing disorder. The data
+suggest that two countervailing trends must be considered when
+developing broken windows policing strategies. On one hand, the data
+support the position that reducing disorder will lead to reductions in
+fear. If fear is indeed related to crime outcomes, then this suggests that
+the broken windows policing approach has much promise. On the
+other hand, however, the results revealed a potentially troubling
+relationship between increased police activities and fear itself. Police
+crackdowns and other activities associated with broken windows
+policing may lead to increased levels of fear, thus possibly offsetting
+the beneﬁts of the reduction in disorder that they may engender. This
+latter ﬁnding will be the focus of this discussion as it raises a central
+challenge to the broken windows policing approach. Can police
+crackdowns associated with broken windows policing be carried out
+without increasing citizen fear, or can they at least be implemented
+while minimizing fear?
+While the current study did not have data to explain why fear
+increased with increased police activity, it seems to be direct and easy
+to understand. Walking on the street and observing police may make
+individuals feel safer, but if they notice much greater police attention
+on the street block where they live, they are certain to be reminded of
+the problems that exist on their street. Additionally, seeing a sudden
+increase in police presence on their block may lead residents to infer
+that crime has increased and that their block is more dangerous and
+crime prone than in the past. Both of these would certainly be
+expected to increase fear of crime. In a review of the beneﬁts and
+consequences of police crackdowns, a topic closely related to the
+policing tactic used in this study and in most broken windows policing
+initiatives, Scott (2002) argued that such tactics often heighten fear
+among offenders and residents.
+The question is, of course, whether one can implement broken
+windows style policing approaches in ways that would minimize
+increases in citizen fear. Earlier research both on police crackdowns
+and community policing suggested that this may be possible, but that
+it is important to consider community reactions at the outset. The
+Kansas City Gun Experiment, for example, involved door-to-door
+visits by police to solicit tips about illegal guns (Sherman & Rogan,
+1995). Though this approach was not designed to reduce citizen fear,
+the visits informed citizens of why there were more police in the
+target area. In this sense, citizens were told directly that police
+activities were not developed because of recent increases in crime, but
+were carried out to get guns off the street. For citizens who did not
+know about the problems in their neighborhood, this could have of
+course elicited fear of crime, but it is likely that such visits served to
+calm citizen concerns about a problem in their area. In turn, Shaw
+(1995) reported that fear was reduced in the Kansas City Gun
+
+Experiment target beat while it increased in the comparison beat. It
+important to note, however, that reductions in fear levels were small,
+and no regression model was presented to allow for an assessment of
+whether the reduction in fear was caused by the increased police
+presence in the target beat. Nonetheless, these ﬁndings are also
+consistent with other studies that involved increasing community/
+police interactions.
+A number of studies have found that community policing lowers
+the community's level of fear (see Committee to Review Research on
+Practice and Policy, 2004; Weisburd & Eck, 2004 for reviews). This was
+especially the case when programs were focused on increasing
+community-police interaction. A series of quasi-experimental studies,
+for example, showed that policing strategies characterized by more
+direct involvement of police and citizens, such as citizen contract
+patrol, police community stations, and coordinated community
+policing have a negative effect on fear of crime among individuals
+and on individual levels of concern about crime in the neighborhood
+(Brown & Wycoff, 1987; Pate & Skogan, 1985; Skogan & Wycoff, 1986).
+Additionally, other studies have shown that community-oriented
+policing efforts designed to directly target fear can also be effective
+(for example, see Cordner, 1986).
+An aspect of community policing that has only recently received
+systematic research attention concerns the inﬂuences of police ofﬁcer
+behavior toward citizens. A number of scholars have argued that the
+“quality” of police contacts with citizens will affect their attitudes
+toward the police (see Tyler, 2004). Most research in this area has been
+focused on the reactions of offenders to police contacts. For example, a
+study based on systematic observations of police-citizen encounters in
+Richmond, Virginia found that when ofﬁcers were disrespectful
+toward citizens, citizens were less likely to comply with their requests
+(Mastrofski, Snipes, & Supina, 1996). This ﬁnding was subsequently
+replicated in Indianapolis, Indiana and St. Petersburg, Florida
+(McCluskey, Mastrofski, & Parks, 1999). This suggests that the
+perceived legitimacy of police actions will also impact upon citizens
+who live in an area, and such impact may include elements of fear of
+crime.
+What these studies suggest is that broken windows policing, if it is
+to be successful, must be concerned not only with the effectiveness of
+the strategies brought to reduce disorder, but also with the “ways in
+which” such strategies are implemented. Broken windows policing
+approaches that are detached from the community, and pay little
+attention to community sentiment may in some sense be doomed to
+failure. Whatever beneﬁts may be gained from cracking down on
+disorder may get lost in increased citizen fear of crime. This is not to
+say that police crackdowns on disorder should be disregarded.
+Strategies that include a strong community element, or at least that
+are accompanied by contacts with the community, may be able to
+reduce disorder and avoid the backﬁre effects of increased police
+activity suggested by the current results. This approach is not
+inconsistent with the perspectives of the strong advocates of broken
+windows policing. In their seminal book on the subject, Kelling and
+Coles (1996) have an entire chapter devoted to illustrating that broken
+windows policing is not only congruent with community policing, but
+in fact, that involvement with the community is crucial to the success
+of order maintenance policing strategies.
+While the ﬁndings presented in this study appeared to be robust
+and have important implications for broken windows policing, it is
+important to note some speciﬁc limitations of the current study before
+concluding. First, the study was a secondary analysis of data collected
+during the Jersey City Displacement and Diffusion Study (Weisburd
+et al., 2004, 2006), and as such was not an explicit test of broken
+windows policing. While the policing tactics examined were very
+similar to those applied in broken windows policing programs, they
+were not designed in the context of such a program.
+The fact that the original resident interview survey did not use a
+panel design is also an important limitation in drawing conclusions
+
+from this study. Average pre-intervention fear at the block level was
+used as a method for adjusting for preexisting differences in the
+analyses reported here. Nonetheless, a panel design would have
+provided a direct method for adjusting for within subject differences in fear. A related drawback of the present design was that it
+did not employ a randomized experimental design. Though this
+study included a number of measures that had not been available in
+prior studies of disorder and fear (e.g., using measures of observed
+physical and social disorder during a police crackdown on disorder),
+absent a randomized experiment, it was not possible to assume that
+all important confounding variables were controlled for in the
+analyses. A study utilizing an experimental design (Campbell &
+Boruch, 1975; Farrington, 1983; Weisburd, 2003) that would
+randomly allocate police presence to crime places would provide a
+more valid test of the effects of broken windows policing on fear of
+crime.
+Finally, when considering the implications of the ﬁndings for
+broken windows hypothesis, it is important to recall that the results of
+this study only tested and found support for the ﬁrst portion of the
+hypothesis which deals with the link between disorder and fear. As
+noted above, the evidence regarding the effects of broken windows
+policing on serious crime is inconclusive. Even if the police can reduce
+incivilities without increasing fear of crime, it is critical to develop
+more systematic and direct evidence of the long-term impacts of
+broken windows policing on crime.
+Conclusions
+This study provided evidence for the broken windows policing
+hypothesis that disorder leads to fear of crime. Examining fear of
+crime among citizens at a micro-place unit of analysis revealed that
+higher levels of both perceived social disorder and observed physical
+disorder led to signiﬁcantly higher levels of fear of crime. For those
+advocating broken windows policing approaches, however, the data
+also suggest reason for caution. Those living in an area that received
+the extra police presence (controlling for other factors in the model)
+also reported higher levels of fear. When considering these ﬁndings
+together, the results suggest that reductions in fear of crime brought
+about by police targeting of disorder may be largely offset in areas
+with moderate amounts of disorder, and at least partially offset in
+areas with severe levels of disorder, by the extra police presence itself
+causing residents to be more fearful.
+It is important to note, however, that these ﬁndings do not lead to a
+conclusion that broken windows policing approaches will inevitably
+fail in their efforts to reduce fear of crime. Rather, they suggest the
+importance of “how” broken windows policing programs are
+implemented. Such programs must be geared not only to reduce
+disorder, but also to prevent increases in citizen fear that may
+accompany crackdowns and other intensive enforcement efforts
+associated with broken windows policing. The police must communicate with citizens and explain their efforts. In this sense, they need
+to gain legitimacy in the areas where they police. The current study
+suggests that this is not simply a luxury, but rather a key to the
+effectiveness of broken windows policing.
+Acknowledgments
+This research was supported in part by a grant from the National
+Institute of Justice (NIJ Grant #: 98-IJ-CX-0070). The authors would
+like to thank the anonymous reviewers and Laura Dugan, Gary
+LaFree, Stephen Mastrofski, Jean McGloin, and Lorraine Mazerolle for
+their helpful comments on early versions of this manuscript. The
+authors would also like to thank Laura Wyckoff and Sue-Ming Yang
+for their help with data preparation and analysis, as well as providing
+many thoughtful comments on study design and early drafts of this
+article.
+
+
+Notes
+1. Observers were given a code book and were taught how to code various disorder
+activities. After the lesson and having time to study the code book, they were tested
+using hypothetical situations that they had to code. They were also instructed only to
+code items that happened on their street segment, and it was made certain that they
+knew the boundary of the segments they were observing each shift. The observers
+were also told not to code any activity ambiguous enough to require guesswork.
+2. Two post-intervention waves of social observations were recorded in the violent
+crime/drug site. Only data from the ﬁrst, immediate post-intervention wave were used
+in the current study. Only one post-intervention wave of observations was collected in
+the prostitution site.
+3. Some days were missing in the data, and it was discovered that these days were
+also missing in the general records of the Jersey City Police Department Crime Analysis
+Unit, suggesting a problem with their computer-aided dispatch system. It was decided
+that there was enough data present to solve this problem by averaging the calls per day
+for the days in the month that data were present for and to then impute these values
+into the missing days. For more details on this, see Weisburd et al. (2004).
+4. It was decided to use calls for service data rather than crime incidence or arrest
+data in an effort to include the largest number of crime events. Calls for service data is
+sometimes criticized as it can potentially contain unsubstantiated crimes. Calls for
+service, however, appeared to be the most appropriate measure for the current study
+as they contained the most events and could also be considered a proxy of resident’s
+perceptions of crime levels on their blocks as it is a measure of the number of times the
+police were called by citizens regarding a speciﬁc crime occurring on each street
+segment. As this article argues that residents’ perceptions of crime and disorder are
+most relevant to determining their fear levels, calls for service were deemed to be the
+most appropriate source of crime data for this study.
+5. The social disorder items were counts of the following items: the number of
+people loitering, the number of verbal disorders, the number of loud disputes, the
+number of people noticeably drunk, the number of people drinking in public, the
+number of homeless people, and the number of loud noises.
+6. The ﬁve items included in the perceived disorder measure asked how often each
+of the following types of disorder occurred on their block: youths hanging out and
+being disorderly, public drinking, panhandling, people damaging property, and
+gambling in the street. All ﬁve items were three-level ordinal measures with responses
+of “1 = not at all, 2 = sometimes, 3 = often.” The ﬁve variables were summed, creating a
+scale ranging from 5 to 15.
+7. The physical disorder items included in the scale measured: burned, boarded up
+or abandoned buildings, buildings with broken windows, vacant lots, buildings with
+structural damage, buildings with grafﬁti, broken glass on streets or sidewalks, and
+litter. Rather than being captured as counts, as with the social observation data, the
+original coding of physical observations varied from item to item. For this analysis, the
+items were recoded into dummy variables which represented the speciﬁc physical
+disorder item being rated as either “moderate or heavy” on the street segment, or
+being present on 30 percent or more of the block/buildings on the segment, depending
+on which measurement scale was originally used. The only exception was broken
+windows, where the dummy variable represented the presence of one or more broken
+windows on the street segment. These dummy variables were then summed, creating
+a physical disorder scale ranging from 0 to 7.
+8. The crime variable included all calls for service for the following call codes:
+assault no weapon, assault weapon, homicide, hostage/barricade, kidnapping, robbery
+commercial, robbery ﬁnancial, robbery person, robbery residence, sexual assault adult,
+sexual assault minor, theft from person, domestic dispute, burglary of other structure,
+burglary of public property, burglary of residential property, motor vehicle theft, theft
+of other property, theft of property from vehicle, shots ﬁred heard, ﬁrearm person
+with, prostitution, use or sale of drugs, and weapon-person with.
+9. One issue that arose was that some calls got coded to an intersection rather than
+a street address which made it difﬁcult to code the call to a particular street segment.
+This was handled by dividing the number of calls at each intersection by the number of
+street segments coming together at that location. If there were twenty crimes coded at
+an intersection, for example, and four street segments came together at that location,
+each segment would have ﬁve crimes added to its total. In the case that the
+intersection was on the border of the study site, and one or more of the segments was
+not in the study site, these outside segments would be included in the division of calls
+at the intersection and their share of the crimes would simply be excluded from the
+analysis. For instance, if one of the four segments was outside the study site in the
+above example, each of the three segments in the site would have ﬁve crimes added to
+their total. The ﬁve calls that would have gone on the fourth segment would simply be
+excluded from the analysis.
+10. It is important to note that there was some clustering in the current data. This
+study examined individual fear of crime regressed on independent variables that were
+sometimes measured at the street-segment level—thus individuals were nested within
+street segments. As such, it was possible that the use of methods that did not account for
+clustering could bias the standard errors upward and thus increase the risk for Type II error.
+This risk did not appear to be a major threat to this study, however, given the small size of
+clusters in the data. The street segments in this study contained from one to twenty-seven
+resident interview respondents, with 66 percent street segments having ten or fewer
+respondents. To be cautious, however, the ordinal regression model was run in Stata using
+the cluster command to adjust the standard errors for clustering by street segment.
+
+511
+
+11. Note that the N in this analysis was 438, which was lower than the total
+number of post-intervention surveys (N = 733) due to missing values. First, there were
+missing values in the dependent variable due to nonresponse to the fear question.
+Deleting cases with no data for the dependent variable dropped the N from 733 to 662.
+Second, this number decreased further due to missing data on independent variables.
+A missing value analysis was performed and found that there were no clear patterns to
+missing data. Additionally, when comparing the means of independent variables with
+whole sample and with missing value cases excluded, it was found that the means
+changed little regardless of which sample was used and thus the missing data should
+not affect the results of the current study. As such, it was decided to simply exclude the
+cases with missing values from the analyses.
+12. In order to test for multicollinearity, the model was run as an OLS regression to
+allow for an examination of VIF and tolerance. All were well within the accepted
+ranges, suggesting multicollinearity was not a problem in the model.
+13. It is important to note that perceptions of physical disorder were not included
+in the model as there were no questions relating to physical disorder on the resident
+interview survey. Thus it was possible that perceptions of physical disorder could also
+inﬂuence fear of crime; however, it was likely that perceptions of physical disorder
+would not vary as much as perceptions of social disorder among residents of a
+particular street segment since physical disorder is more stable across time and place
+than social disorder. Unruly youth, for example, may be present on a resident’s block
+occasionally, but the grafﬁti on the wall is there 24/7 until it is removed. Unfortunately
+this issue could not be examined with the current data.
+14. Average levels of fear at the block level before and after the intervention were
+also examined. It was important to note, however, that there was very high block-toblock variability in the number of surveys conducted. In approximately 19 percent of
+the blocks, fewer than three surveys were actually completed in the post-intervention
+period, while other blocks had as many as twenty-seven completed surveys. The very
+low number of responses on many blocks made a speciﬁc block-level analysis of the
+data suspect. Nonetheless, a review of average block-level changes showed a small
+increase in fear in the target areas and a small decrease in the catchment areas.
+15. See Sherman and Weisburd (1995) and Weisburd et al. (2006) for examples of
+studies that examined focused police crackdowns on disorder in high disorder areas
+and found that disorder was reduced, but not eliminated, by the interventions.
