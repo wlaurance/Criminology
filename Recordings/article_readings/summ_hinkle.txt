@@ -1,0 +1,197 @@
+The irony of broken windows policing: A micro-place study of the relationship
+between disorder, focused police crackdowns and fear of crime
+Joshua C. This study aimed to improve knowledge of the relationship between disorder and
+fear of crime in the context of the broken windows hypothesis by using a micro-place level research design
+involving a police crackdown on disorder and minor crime at hot spots. The results of the current study
+suggest that perceived social disorder and observed levels of physical disorder have a strong impact on fear of
+crime. This conﬁrms the relationship between disorder and fear hypothesized by the broken windows
+literature, and implies that police may be able to reduce fear of crime by reducing disorder. Its main thesis is that the targeting of disorder and
+nuisance crimes (which generally gained little police attention in the
+reactive, professional model of policing) provides the key to the longterm reduction of violent crime. Such methods have
+included issuing citations and arrests for disorderly behavior, loitering, and any number of other disorders and minor crimes that the
+police are likely to ignore in standard policing practices (e.g., Kelling &
+Sousa, 2001;
+Additionally, it is important from the perspective of the broken
+windows thesis to examine the relationship between disorder and
+fear in the context of a police intervention involving crackdowns on
+disorder, as the thrust of Wilson and Kelling's (1982) seminal article
+was that police can better reduce fear and crime by targeting
+incivilities. While the broken windows idea certainly is relevant to
+the development of communities irrespective of policing approaches
+(see Skogan, 1990), Wilson and Kelling clearly saw the police as a
+central part of community efforts to prevent the cycle of fear and
+crime by targeting disorder, stating that “(t)hough citizens can do a
+great deal, the police are clearly the key to order maintenance” (p. As such,
+an important question to answer is whether focused police crackdowns in disorder hot spots can reduce fear of crime among residents
+of the targeted areas.
+The use of observed measures of physical and social disorder as well as
+residents' perceptions of disorder on street segments allowed for an
+assessment of not only the effect of disorder on fear, but importantly,
+also allowed for an assessment of the impact that police efforts to
+reduce disorder have on fear of crime. This point is especially important in relation to
+broken windows policing strategies because, if true, it means that
+focused policing crackdowns on disorder may actually increase fear of
+crime, and thus offset any fear reduction beneﬁts that may be gained
+by reducing disorder. As such,
+they suggested that police should focus resources on cracking down
+on disorder and minor crimes before they cause serious crime
+problems to arise in a neighborhood.
+While broken windows theories emphasize the importance of the
+link between disorder and fear of crime, a review of the literature
+suggests that interest in the topic was not introduced by broken
+windows theorists, but rather was sparked in large part by numerous
+studies which found that fear of crime did not appear to be linked to
+ofﬁcial crime rates or actual victimization risks. The notion that fear of crime is not tied to crime rates or
+victimization risks was further supported by the observation that
+although fear goes up as crime goes up, it does not fall as rapidly when
+crime declines (Taylor & Hale, 1986). This is a reasonable criticism as the lack of a relationship
+between disorder and crime would essentially refute the utility of
+policing strategies focusing on disorder. More recent work has
+responded to this critique by stating that broken windows theory
+does not argue for a direct relationship between disorder and crime,
+but rather that the theory has always asserted that the relationship is
+indirect through fear of crime and its accompanying impact on
+informal social controls (Bratton & Kelling, 2006; While Taylor found evidence
+of a link between disorder and crime, he argued that disorder did not
+have a particularly strong impact on block-level crime changes over
+time when compared with initial community structure or crime rates. Moreover, given the key role of fear in the
+broken windows thesis outlined above, it is unfortunate that empirical
+tests of broken windows policing have been largely limited to
+examining its impact on crime and disorder. For this reason, it is crucial to examine a critical
+intervening variable in the broken windows policing model—the
+effect of these policing efforts on citizen fear of crime.
+
+Broken windows policing
+Past studies of police impact on fear
+While broken windows policing is widely perceived as an
+important and effective new policing strategy, and has been given
+credit in good part for the crime drop in New York City in the 1990s
+(Bratton & Knobler, 1998; Speciﬁcally, many studies of community-oriented policing have
+found effects on fear of crime even when effects on crime were lacking
+(see Committee to Review Research on Practice and Policy, 2004; If the police strategy itself increases fear of
+crime, it may well offset any fear reduction beneﬁts gained by the police
+crackdown lowering the level of disorder. Disorder
+may still be related to crime, but if it does not impact fear of crime,
+then it is not related to crime in the speciﬁc manner suggested by
+Wilson and Kelling (1982). In such a case, the focusing of police
+resources on disorder may be misguided and unlikely to have the
+intended impacts on fear and serious crime, even if the police are able
+to reduce disorder. The current study examined the link between
+disorder and individual fear of crime at the micro level following a
+police crackdown on disorder in an effort to better understand the
+relationship between these variables in the context of the broken
+windows thesis. These catchment
+areas did not gain extra police presence, and police activities were
+carefully monitored to avoid spillover of policing strategies into the
+catchment areas. In practice, however, the police activities were consistent
+with the broken windows policing approach as they involved
+intensive crackdowns on drug activity, prostitution, and street-level
+social and physical disorder. In addition
+to these strict crackdowns on crime and disorderly behavior, police
+also utilized code enforcement to pressure businesses and property
+owners to clean up physical disorder problems in the target area, as
+well as instituting a neighborhood beautiﬁcation program which
+cleaned up an area and built a basketball court. In the meantime, a perceived risk measure is
+appropriate in a study of the broken windows thesis as a reading of
+broken windows' literature implies that fear of crime is related to
+individuals' concerns about becoming victims of crime in their
+neighborhood that arise in response to signs of untended disorder
+in their neighborhood.
+Crime was included to control for the direct impact of street-level
+crime on resident fear and was created from police calls for service
+data.8 While earlier studies found that crime was not related to fear of
+crime, it is nevertheless an important part of the broken windows
+hypothesis and thus it remains an important variable to include in the
+model.
+Findings
+The main research question examined in this study tested the
+relationship between disorder and fear of crime in the context of a
+focused police intervention by using post-intervention measures of
+disorder and crime as the main independent variables, while
+controlling for pre-intervention fear levels on each block. The broken
+windows thesis suggested that police could reduce crime by targeting
+disorder, as this should reduce resident fear of crime and withdrawal
+from the community. The effect of police intervention on fear of crime
+was also tested by including extra police presence as an independent
+variable in the analysis. As the police intervention signiﬁcantly
+reduced disorder as outlined above (see Weisburd et al., 2006 for
+full results) the broken windows hypothesis would expect that the
+intervention should have a signiﬁcant and negative effect on fear of
+crime. Thus those living in areas that received the
+extra police presence were more fearful than those in other areas,
+controlling for levels of crime, disorder, and fear on their block in the
+pre-intervention period and various other factors.14 This is troubling
+for policymakers as it suggests that any reduction in fear of crime
+resulting from broken windows style police crackdowns on disorder in
+hot spots may be reduced by the strategies themselves, at least
+partially offsetting these reductions.
+
+Magnitude of the relationships between disorder, police presence, and
+fear
+To further explore the issue at hand, it is necessary to examine and
+compare the magnitude of the relationships between disorder, extra
+police presence, and fear of crime. First, they provide
+strong evidence for the broken windows hypothesis' argument that
+disorder leads to fear of crime as the ﬁndings show that scoring the
+maximum on both perceived social disorder (a score of 15) and
+observed physical disorder (a score of 7) resulted in a probability of
+feeling unsafe that was approximately 57 percent higher than those
+scoring at the minimums. This is especially true in terms of police interventions
+as it is unlikely for police to totally eradicate disorder in targeted
+areas.15 For this reason, the difference in moving from the minimum
+possible total disorder score to the midpoint (10 on perceived disorder
+and 3.5 on physical disorder) was also examined. Following these results, it appears that police could
+reduce fear of crime by reducing the levels of social and physical
+disorder as argued in the broken windows literature.
+When considering this with the ﬁnding that the police presence
+increased probability of feeling unsafe by 27 percent, these results
+suggest that any reductions in fear of crime brought about by police
+targeting disorder may be largely offset in areas with moderate
+amounts of disorder, and at least partially offset in areas with severe
+levels of disorder, by the police intervention itself causing residents to
+become more fearful. Thus the types of policing strategies that evolved
+from the broken windows literature (i.e., zero tolerance policing and
+other types of crackdowns on disorder and minor crime) may have
+limited utility in reducing fear of crime. Police
+crackdowns and other activities associated with broken windows
+policing may lead to increased levels of fear, thus possibly offsetting
+the beneﬁts of the reduction in disorder that they may engender. Can police
+crackdowns associated with broken windows policing be carried out
+without increasing citizen fear, or can they at least be implemented
+while minimizing fear? In a review of the beneﬁts and
+consequences of police crackdowns, a topic closely related to the
+policing tactic used in this study and in most broken windows policing
+initiatives, Scott (2002) argued that such tactics often heighten fear
+among offenders and residents. A series of quasi-experimental studies,
+for example, showed that policing strategies characterized by more
+direct involvement of police and citizens, such as citizen contract
+patrol, police community stations, and coordinated community
+policing have a negative effect on fear of crime among individuals
+and on individual levels of concern about crime in the neighborhood
+(Brown & Wycoff, 1987; In their seminal book on the subject, Kelling and
+Coles (1996) have an entire chapter devoted to illustrating that broken
+windows policing is not only congruent with community policing, but
+in fact, that involvement with the community is crucial to the success
+of order maintenance policing strategies. Though this
+study included a number of measures that had not been available in
+prior studies of disorder and fear (e.g., using measures of observed
+physical and social disorder during a police crackdown on disorder),
+absent a randomized experiment, it was not possible to assume that
+all important confounding variables were controlled for in the
+analyses. Weisburd, 2003) that would
+randomly allocate police presence to crime places would provide a
+more valid test of the effects of broken windows policing on fear of
+crime. Even if the police can reduce
+incivilities without increasing fear of crime, it is critical to develop
+more systematic and direct evidence of the long-term impacts of
+broken windows policing on crime. Examining fear of
+crime among citizens at a micro-place unit of analysis revealed that
+higher levels of both perceived social disorder and observed physical
+disorder led to signiﬁcantly higher levels of fear of crime. When considering these ﬁndings
+together, the results suggest that reductions in fear of crime brought
+about by police targeting of disorder may be largely offset in areas
+with moderate amounts of disorder, and at least partially offset in
+areas with severe levels of disorder, by the extra police presence itself
+causing residents to be more fearful. (2006) for examples of
+studies that examined focused police crackdowns on disorder in high disorder areas
+and found that disorder was reduced, but not eliminated, by the interventions.
