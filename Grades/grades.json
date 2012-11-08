@@ -1,0 +1,32 @@
+{
+   "attendance" : {
+      "max" : 30,
+      "score" : 30
+   },
+   "journals" : {
+      "max" : 60,
+      "score" : 60
+   },
+   "total" : 600,
+   "exams" : [
+      {
+         "max" : 100,
+         "name" : "exam 1",
+         "score" : 87.5
+      },
+      {
+         "max" : 100,
+         "name" : "exam 2",
+         "score" : 58.5
+      },
+      {
+         "max" : 100,
+         "name" : "exam 3",
+         "score" :"86"
+      }
+   ],
+   "fishbowl" : {
+      "max" : 60,
+      "score" : 60
+   }
+}
