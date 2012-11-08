@@ -1,0 +1,766 @@
+University of Michigan
+Highlighting resource inequality, social processes, and spatial interdependence, this study combines structural characteristicsfrom the
+1990 census with a survey of 8,872 Chicago residents in 1995 to predict
+homicide variations in 1996-1998 across 343 neighborhoods. Spatial
+proximity to homicide is strongly related to increased homicide rates,
+adjustingfor internal neighborhood characteristicsand priorhomicide. Spatial dynamics coupled with neighborhood inequalities in social and economic capacity are therefore consequential for
+explaining urban violence. The urban village model is also premised on the notion that
+networks of personal ties and associations map neatly onto the geographic
+boundaries of spatially defined neighborhoods, such that neighborhoods
+can be analyzed as independent social entities. The connection
+of systemic social disorganization and social capital theory has been articulated by Bursik (1999): Neighborhoods bereft of social capital (e.g., interlocking social networks) are less able to realize common values and
+maintain the informal social controls that foster safety. His research suggests that disadvantaged
+urban neighborhoods are places where dense webs of social ties among
+neighbors may impede social organization: "[I]t appears that what many
+impoverished and dangerous neighborhoods have in common is a relatively high degree of social integration (high levels of local neighboring
+while being relatively isolated from contacts in broader mainstream society) and low levels of informal social control (feelings that they have little
+control over their immediate environment, including the environment's
+negative influences on their children)" (pp. As Warren (1975) noted, the common belief that neighborhoods have declined in importance as social units
+"is predicated on the assumption that neighborhood is exclusively a primary group and therefore should possess the 'face-to-face,' intimate, affective relations which characterize all primary groups" (p. The difference is mainly
+one of emphasis: Although we recognize and incorporate below the relevance of systemic networks for neighborhood social organization, we
+argue that collective capacity for social action, even if rooted in weak personal ties, may constitute the more proximate social mechanism for understanding between-neighborhood variation in crime rates. Applying this framework, we highlight two neglected dimensions of neighborhood context: (1) spatial
+dynamics arising from neighborhood interdependence, and (2) social-institutional processes. From the standpoint of systemic theory, it is important to
+account for the social and institutional ties that link residents of urban
+communities to other neighborhoods, particularly those that are more spatially proximate to their neighborhood. The idea of spatial dependence thus challenges the
+urban village model, which implicitly assumes that geographically defined
+neighborhoods represent intact social systems that function as islands unto
+themselves, isolated from the wider sociodeomographic dynamics of the
+city. Moreover, to the extent that
+the risk of becoming a homicide offender is influenced by contextual factors such as concentrated poverty, concentrated affluence, and collective
+efficacy, spatial proximity to such conditions is also likely to influence the
+risk of homicide victimization in a focal neighborhood. Thus, a homicide in one neighborhood may provide the spark that
+eventually leads to a retaliatory killing in a nearby neighborhood. The diffusion perspective
+focuses on the consequences of crime as they are played out over time and
+space-crime in one neighborhood may be the cause of future crime in
+another neighborhood. In this paper, we therefore focus on the independent effect of
+spatial proximity on the likelihood of homicide, accounting for key structural and social characteristics of life within the boundaries of focal
+neighborhoods. These patterns are
+consistent with the inference that neighborhood structural characteristics
+
+HeinOnline -- 39 Criminology 524 2001
+
+ THE SPATIAL DYNAMICS OF URBAN VIOLENCE 525
+influence violence in part through the construct of neighborhood collec2
+tive efficacy. Social cohesion and informal social control were
+strongly related across neighborhood clusters (r = .80) and, following
+Sampson et al. Distinct from individual-level reliability (e.g., Cronbach's alpha), neighbor-
+
++ a2 /nj)] /J, which measures the precision of the
+hood reliability is defined as Y [T00/(Too
+estimate, averaged across the set of J neighborhoods, as a function of (1) the sample
+
+HeinOnline -- 39 Criminology 526 2001
+
+ THE SPATIAL DYNAMICS OF URBAN VIOLENCE
+
+527
+
+In addition to the cohesion and control scales that define collective efficacy, our analysis takes into account institutional neighborhood processes
+and social networks. The resources that affluent neighborhoods can mobilize are theoretically relevant to understanding the activation of social
+control, regardless of dense social ties and other elements of social capital
+that may be present. In the
+latter period (1996-1998), the homicide count for each neighborhood cluster is based
+on the number of "incidents" that occurred there, where each incident may contain one
+
+HeinOnline -- 39 Criminology 529 2001
+
+ MORENOFF ET AL. This contrasts with the 1991-1993 homicide data, in which the neighborhood count is based on the number of victims that were murdered in each neighborhood in a given year. Our model views the homicide count
+
+Yi for a given neighborhood as sampled from an overdispersed Poisson
+distribution with mean niAi, where ni is the population size in 100,000s of
+neighborhood i and Ai is the latent or "true" homicide rate for neighborhood i per 100,000 people. Raudenbush et
+al., 2000), we set the natural log link rj, = log(A
+1 ) equal to a mixed linear
+model that includes relevant neighborhood covariates, a random effect for
+each neighborhood, plus a spatial autocorrelation term. However, if a significant association between social process and homicide maintains after partialling the effect of prior
+homicide, endogeneity is an implausible inference in our panel model because the
+homicide outcome is measured at a later time than the predictors; Third, the approach incorporates the spatial dependence of neighborhood homicide rates. The approximate posterior mode i" for neighborhood i is a weighted average
+of that neighborhood's log homicide rate, estimated using only the data from that
+neighborhood; The more data collected in neighborhood i, the more precise will be the estimate based on the data from that neighborhood and the more weight
+it will be accorded in composing rj*. This
+interpretation would seem to suggest a diffusion process, whereby a high
+homicide rate in one neighborhood diffuses outward and affects homicide
+rates in surrounding neighborhoods. However, the notion of diffusion
+implies a process that occurs over time, whereas the spatial autocorrelation process modeled in Equation (1) is entirely cross-sectional-homicide
+rates are spatially interrelated across neighborhoods but simultaneously
+determined. The first component
+(the spatial process in the X variables) directly addresses the "proximity
+hypothesis" discussed above-it estimates the extent to which homicide
+rates are related to values of the measured X variables in spatially proximate neighborhoods.1 3 The second component of Equation (2) (the spatial process in E) is more ambiguous and depends on the model
+specification. In part, this component taps the effect of spatial proximity
+to unmeasured features in nearby neighborhoods that are associated with
+homicide. For example, the homicide rate of the focal neighborhood may
+be related to rates in surrounding areas because of overlapping social networks across arbitrary neighborhood boundaries. Another possibility is a
+spillover effect such that the homicide rate in the focal neighborhood is
+affected by the homicide rate in nearby neighborhoods directly. We thus examined
+the geographic correspondence between the distribution of neighborhood
+homicide rates and that of collective efficacy, a key social process from our
+theoretical perspective. To facilitate such a comparison, we employ a
+typology of spatial association, referred to as a Moran scatterplot, which
+classifies each neighborhood based on its value for a given variable, y, and
+the weighted average of y in contiguous neighborhoods, as captured by the
+spatial lag term, Wy. For simplicity, neighborhoods that are above the
+mean on y are considered to have "high" values of y, whereas neighborhoods below the mean are classified as "low." The same distinction is
+made with respect to values of Wy for each neighborhood, resulting in a
+fourfold classification with the following categories: (1) low-low, for neighborhoods that have low levels of efficacy and are also proximate to neighborhoods with low levels of efficacy; For example, 67 of the 93 neighborhoods
+that have spatial clustering of high levels of collective efficacy (72%) also
+experience statistically significant clustering of low homicide. Most of the
+clustering of low homicide coupled with high collective efficacy occurs in
+neighborhoods located on the western boundaries of Chicago, particularly
+on the far northwest and southwest sides. For example, 14 of the 93
+homicide cold spots (15%) appear in neighborhoods with low levels of
+collective efficacy that are surrounded by high levels. Moreover, 15 of 103
+homicide hot spots (15%) are in neighborhoods that have high levels of
+collective efficacy but are surrounded by neighborhoods with low levels.
+The role of spatial proximity to collective efficacy is further explored in
+Figure 2, which graphs the mean homicide rate for the four categories of
+the collective efficacy spatial typology.15 Figure 2 reveals that regardless
+of the level of collective efficacy in the focal neighborhood, mean homicide rates are lower among neighborhoods that are spatially proximate to
+high levels of collective efficacy (as indicated by the dark gray bars) than
+they are among neighborhoods that are spatially proximate to low levels
+of collective efficacy (as indicated by the dotted bars). It is therefore clear
+that a neighborhood's spatial proximity to collective efficacy conditions its
+homicide rate, independent of its level of collective efficacy.
+
+Figure 2 Mean Homicide Rate by Level and Spatial
+Proximity to Collective Efficacy
+80.0
+
+70.0ioCo1v
+
+Proximityto Low Collective Efficacy
+wd Pko imity o High Collective Efficacy
+
+60.0
+
+S50.0
+
+40.0
+4
+
+70.0
+
+n
+
+(N=131)
+47.6
+
+_
+~(N=43)
+~31.6
+
+E30.02&
+
+20.0
+11.7
+
+L-w Level of Collective Efficacy
+
+High Level of Collective Efficacy
+
+words, knowing the local level of social organization is not enough, a proposition we now test further in a multivariate spatial analysis of homicide
+rates with additional covariates.
+
+MULTIVARIATE ANALYSIS
+We turn to a regression framework to investigate three substantive
+issues in the analysis of neighborhood homicide rates-the role of multiple
+social processes as neighborhood mechanisms, the spatial dynamics of
+homicide, and the endogeneity of collective efficacy. and 1990 Census
+(Standard Errors in Parentheses)
+OLS
+Variables
+
+Maximum Likelihood
+
+(1)
+
+LN Concentrated Disadvantage
+
+(2)
+
+(3)
+
+(4)
+
+1.30**
+(0.07)
+
+1.14**
+(0.09)
+
+0.80**
+(0.10)
+
+0.54**
+(0.13)
+
+ICE Index
+Concentrated Immigration
+
+0.10**
+(0.04)
+0.05*
+(0.02)
+0.01
+(0.33)
+-0.27**
+(0.09)
+
+2.91*
+(0.08)
+0.68
+
+Residential Stability
+Adults per Child'
+Population Density'
+
+0.06
+(0.05)
+0.05*
+(0.02)
+-0.06
+(0.33)
+-0.33**
+(0.09)
+-0.65**
+(0.20)
+0.18
+(0.10)
+-0.05
+(0.07)
+0.02
+(0.16)
+
+6.01"*
+(0.92)
+0.70
+
+Collective Efficacy
+Voluntary Associations
+Organizations
+Kin/friendship ties
+Spatial Proximity
+Prior Homicide Rate (1991-1993)
+Constant
+R
+
+2
+
+(5)
+
+-1.12**
+(0.18)**
+0.03
+0.04
+-0.14**
+(0.04)
+(0.04)
+(0.04)
+0.03
+0.03
+0.03
+(0.02)
+(0.02)
+(0.02)
+0.02
+-0.12
+-0.07
+(0.30)
+(0.30)
+(0.32)
+-0.27** -0.24** -0.20**
+(0.08)
+(0.08)
+(0.09)
+-0.54** -0.47** -0.67**
+(0.18)
+(0.18)
+(0.18)
+0.15
+0.13
+0.15
+(0.09)
+(0.09)
+(0.09)
+-0.05
+-0.03
+-0.02
+(0.06)
+(0.06)
+(0.07)
+-0.02
+-0.05
+-0.10
+(0.15)
+(0.15)
+(0.16)
+0.34**
+0.31**
+0.48**
+(0.05)
+(0.05)
+(0.05)
+0.21**
+(0.06)
+4.62**
+3.87**
+5.14**
+(0.87)
+(0.89)
+(0.87)
+0.72
+0.73
+0.69
+
+(6)
+
+-0.68**
+(0.19)
+-0.04
+(0.04)
+0.03
+(0.02)
+-0.16
+(0.31)
+-0.20*
+(0.08)
+-0.47**
+(0.18)
+0.14
+(0.09)
+-0.01
+(0.06)
+-0.13
+(0.16)
+0.30**
+(0.05)
+0.37**
+(0.05)
+3.81**
+(0.89)
+0.73
+
+Adults per child multiplied by 100. When social and institutional processes
+are added to the regression, in model 2, only the effects of disadvantage
+(positive), residential stability (positive), and density (negative) remain
+significant.1 7 More importantly, model 2 also reveals that collective effi-
+
+cacy is negatively related to homicide rates, as anticipated by the theoretical discussion. Model 4
+adds a control for the prior neighborhood homicide rate (1991-1993) in
+order to address the possibility that the association between collective efficacy in 1995 and 1996-1998 homicide rates is really a reflection of the
+downward spiral of neighborhoods caused by prior violence.18 The control for prior homicide reduces the magnitude of the collective efficacy
+coefficient (by 13%), but it still maintains significance. The control for
+prior homicide reduces the disadvantage coefficient more substantially (by
+33%), but because 1991-1993 homicide rates and the logged disadvantage
+index are so highly correlated (r = .90), it is difficult to disentangle their
+independent effects on 1996-1998 homicide rates. More important from
+the standpoint of our theoretical discussion above is that collective efficacy
+and the spatial term maintain significant and strong associations with variations in future homicide unaccounted for by the stable patterns of violence as reflected in prior homicide. What is unique about models 5 and 6 is the
+cities may indeed have higher homicide rates), but it is less applicable to the neighborhood level because many of the most devastated and poor areas within cities of the
+North and Midwest are those that became "depopulated" during the social dislocations
+of the 1970s and 1980s (Wilson, 1987). The maps revealed that the association between high neighborhood
+density and low homicide rates appears to be strongest in affluent neighborhoods on
+the city's North Side, where there are many high-rise apartment buildings. To be sure,
+there are also neighborhoods with high density and high homicide rates-such as those
+with high-rise public housing-but it is more generally the case that the neighborhoods
+with the highest homicide rates (e.g., on the West and South Sides) have relatively low
+levels of population density. This finding dovetails with results from prior longitudinal
+research in Chicago on the association between neighborhood population loss-which
+tends to result in lower levels of population density-and higher homicide rates (Morenoff and Sampson, 1997). and 1990 Census
+(Standard Errors in Parentheses)
+OLS
+Variables
+
+Maximum Likelihood
+
+(1)
+
+LN Concentrated Disadvantage
+
+(2)
+
+(3)
+
+(4)
+
+0.66**
+(0.05)
+
+0.56**
+(0.07)
+
+0.44**
+(0.08)
+
+0.35**
+(0.10)
+
+ICE Index
+Concentrated Immigration
+
+-0.04
+(0.03)
+0.03
+(0.02)
+0.01
+(0.27)
+-0.04
+(0.07)
+
+Adults per Child'
+Population Density'
+
+-0.05
+(0.04)
+0.03
+(0.02)
+0.01
+(0.26)
+-0.07
+(0.07)
+-0.50**
+(0.15)
+0.14
+(0.07)
+0.04
+(0.05)
+0.07
+(0.13)
+0.22**
+(0.06)
+
+2.00**
+(0.06)
+0.50
+
+Residential Stability
+
+-0.05
+(0.04)
+0.03
+(0.02)
+-0.03
+(0.27)
+-0.08
+(0.07)
+-0.48**
+(0.16)
+0.13
+(0.08)
+0.05
+(0.06)
+0.04
+(0.13)
+
+4.24**
+(0.75)
+0.52
+
+3.78**
+(0.74)
+0.53
+
+Collective Efficacy
+Voluntary Associations
+Organizations
+Kin/friendship ties
+Spatial Proximity
+Prior Homicide Rate (1991-1993)
+Constant
+
+R2
+'Adults per child multiplied by 100. Thus,
+to the extent that prior homicide adjusts for the unobserved heterogeneity
+of causal processes, the continued strength of the p coefficient increases
+
+HeinOnline -- 39 Criminology 542 2001
+
+ THE SPATIAL DYNAMICS OF URBAN VIOLENCE
+
+543
+
+our confidence in the robustness of the effect of spatial proximity on
+homicide. The first set of bars in this series show that controlling for all other covariates in model 4, a one standard deviation increase
+in the log of the disadvantage index in the focal neighborhoodis associated
+with a 40% increase in the homicide rate in the focal neighborhood
+according to the Police data and a 24% increase according to the Vital
+Statistics. 22 The next set of bars reveals that all else being equal, a one
+standard deviation increase in the average level of concentrated disadvantage in the first-order neighbors of the focal neighborhood is associated
+with a 9% increase in the homicide rate in the focal neighborhood according to the Police data and a 4% increase according to Vital Statistics.
+
+0
+
+4
+
+-- 40
+
+40
+35
+30
+
+S25
+
+-
+
+24
+
+9
+
+0
+
+s
+
+4
+
+5
+
+0
+
+0
+
+0
+
+-12 12
+Concentrated
+Disadvntage in
+Focal
+Neighbdrhod
+(Evaluatedat
+Grnd Mean)
+
+Concentrated Concentrated Concentrated
+in Disadvaetage
+in
+Disadvantage
+in Disadnantage
+3rd-Order
+Ist-Order 2nd-Order
+Neighborn
+Neighbor
+Neighbors
+at (Evalated at (Evaluated at
+(Evaloated
+GrandMan)
+GrandMean)
+GrandMa)
+
+Collective
+Eficcy in
+Focal
+Neighborhood
+
+Coleciv
+Efficay in
+Ist-Order
+Neighbo
+
+Coltive
+Efficacy
+in
+2nd-Order
+Neighbors
+
+Collective
+Efficacy
+in
+3rd-Order
+Neighbo
+
+the level of collective efficacy in the focal neighborhood is associated with
+a 12% reduction in the homicide rate according to both the Police data
+and the Vital Statistics data. Cumulatively, a one standard deviation
+increase in collective efficacy in the focal neighborhood, and the first-, second-, and third-order neighbors, is associated with a 15% reduction in the
+homicide rate of the focal neighborhood according to the Police data, and
+a 14% drop according to the Vital Statistics. As we
+
+HeinOnline -- 39 Criminology 544 2001
+
+ THE SPATIAL DYNAMICS OF URBAN VIOLENCE 545
+argued above, the high degree of racial segregation overlaid with poverty
+hinders our ability to disentangle the direct effects of neighborhood racial
+23
+composition and neighborhood socioeconomic disadvantage in Chicago. We address this
+issue by estimating spatial regime models (Anselin, 1995a), which allow
+coefficients to vary across regimes defined by neighborhood racial composition while controlling for spatial dependence. 24 To define these regimes,
+we divide Chicago's neighborhoods into two categories based on their
+1990 racial composition: (1) less than 75% non-Hispanic black (henceforth
+referred to as "non-black" neighborhoods) and (2) 75% or more non-Hispanic black (henceforth, referred to as "black" neighborhoods). Coefficients from the Regression of Empirical
+Bayes Poisson Homicide Rates on Neighborhood Predictors
+by Racial Regimes: 1990-1998 Chicago Police Data; 26
+The ICE index and collective efficacy have significant negative associations with the homicide incident rate in both non-black and black neighborhoods. 27 In the victimbased homicide model, the ICE index is significantly associated with homicide only in non-black neighborhoods, whereas the association between
+collective efficacy and homicide is significant only in black neighborhoods. Although there is evidence of differing magnitudes of effect across black and non-black neighborhoods, the overall
+results for collective efficacy and spatial proximity are fairly robust, taking
+both homicide outcomes into account.
+
+DISENTANGLING NEIGHBORHOOD
+SYSTEMIC PROCESSES
+Although the regression results affirm that collective efficacy in achieving social control is an important factor for understanding variation in
+neighborhood homicide rates, they are less sanguine about the role of
+social ties. Both Tables I and 2 show that there is no independent association between social ties and neighborhood homicide rates after controlling
+for collective efficacy. These findings offer insight on the social disorganization tradition of recent neighborhood research, much of which focuses
+on the role of social ties. From the standpoint of the systemic perspective, we expect homicide rates to be lowest in neighborhoods that possess high levels of both
+social ties and collective efficacy. Most of the neighborhoods where
+low homicide rates are clustered despite the absence of strong social ties
+are on the north side of the city. The traditional perspective on social
+disorganization predicts that homicide "hot" spots should be found
+predominantly in neighborhoods that are low in both ties and efficacy. Integrating the collective efficacy and systemic model, we would
+suggest that social ties create the capacity for informal social control, but it
+is the act of exercising control that is related to crime rather than the existence of social networks per se (Bursik, 1999). One interpretation of this finding is that the spatial dependence term is significant in model 1 because it captures the effects of social ties and interactions that cut
+across neighborhood boundaries, along with similarities across neighborhoods on unobserved social and institutional process variables. Maximum Likelihood Coefficients from the
+Spatial-Lag Regression of Collective Efficacy (1995) on
+Neighborhood Predictors: 1995 PHDCN Survey
+and 1990 Census
+Variables
+LN Concentrated Disadvantage
+
+(1)
+-0.27**
+(0.03)
+
+(2)
+-0.25**
+(0.02)
+
+(3)
+-0.20**
+(0.03)
+
+ICE Index
+Concentrated Immigration
+
+-0.06**
+(0.01)
+0.02**
+(0.01)
+-0.16
+(0.10)
+-0.11"*
+(0.03)
+
+0.15"*
+(0.06)
+
+Adults per Childa
+Population Densityb
+
+(0.02)
+0.09**
+(0.03)
+0.06**
+(0.02)
+0.28**
+(0.04)
+0.09
+(0.06)
+
+3.46**
+(0.25)
+0.6-3
+
+Residential Stability
+
+-0.06**
+(0.01)
+0.01
+(0.01)
+-0.11
+(0.09)
+-0.08**
+
+3.06**
+(0.27)
+0.72
+
+Voluntary Associations
+Organizations
+Kin/friendship ties
+Spatial Proximity
+Prior Homicide Rate (1991-1993)
+Constant
+
+R2
+
+-0.06**
+(0.01)
+0.01
+(0.01)
+-0.09
+(0.09)
+-0.09**
+(0.02)
+0.09**
+(0.03)
+0.06**
+(0.02)
+0.28**
+(0.04)
+0.08
+(0.06)
+-0.04*
+(0.02)
+3.23**
+(0.28)
+0.72
+
+(4)
+
+(5)
+
+0.47**
+(0.04)
+-0.01
+(0.01)
+-0.00
+(0.01)
+-0.12
+(0.09)
+-0.09**
+(0.02)
+0.07**
+(0.03)
+0.05**
+(0.02)
+0.33**
+(0.04)
+0.21**
+(0.05)
+
+0.34**
+(0.05)
+-0.03**
+(0.01)
+0.00
+(0.01)
+-0.13
+(0.09)
+-0.09**
+(0.02)
+0.07**
+(0.03)
+0.05**
+(0.02)
+0.33**
+(0.04)
+0.13**
+(0.05)
+-0.06**
+(0.01)
+2.85**
+(0.28)
+0.73
+
+2.34**
+(0.26)
+0.72
+
+aAdults per child multiplied by 100. In particular, spatial proximity to violence, collective efficacy, and alternative
+measures of neighborhood inequality-indices of concentrated disadvantage and concentrated extremes-emerged as the most consistent
+predictors of variations in homicide across a wide range of tests and empirical specifications. Indeed, the spatial effects were larger than the standard structural covariates and an array of neighborhood social processes. Also, perhaps because of
+the investment potential in affluent areas, homicide does not lead to the
+
+HeinOnline -- 39 Criminology 552 2001
+
+ THE SPATIAL DYNAMICS OF URBAN VIOLENCE 553
+same cycle of decline that seems to be obtained in disadvantaged neighborhoods. He is Scientific Director of the Project on Human Development in
+Chicago Neighborhoods (PHDCN), a study of how family, neighborhood, and school
+settings shape the social development, mental health, and exposure to violence of children growing up in Chicago.
