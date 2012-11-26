@@ -44,3 +44,6 @@ Robert Merton's Anomie/Strain Theory
   2. **Innovation**: Individuals accept the success goals but lack
      access to or reject the institutional means; volatile, influx, high
      crime society.
+  3. **Ritualism**: Have access to the institutional means, but reflect
+     the cultural success goals; stagnant, low-crime societies, locked in
+     tradition ("neophobia")
