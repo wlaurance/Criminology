@@ -100,8 +100,7 @@ What are strains?
   * Events or social conditions that are disliked by individuals:
     * 3 Major catgories
       1. Individuals lose something they value
-      2. Individuals are presented with noxious stimuli
-        * Negative or aversive treatment by others
+      2. Individuals are presented with noxious stimuli - Negative or aversive treatment by others
       3. Individuals are unable to achieve positively valued goals
   * Which is most consistent with Merton? 3.
 
