@@ -3,13 +3,17 @@ colors = require 'colors'
 
 fs.readdir __dirname, (err, files)->
   has_no_files = []
+  has_files = []
   checked_dirs = 0
   for file in files
     unless file in ['node_modules']
       if (fs.statSync __dirname + "/#{file}").isDirectory()
         checked_dirs++
         journals = fs.readdirSync __dirname + "/#{file}"
-        has_no_files.push file if journals.length < 1
+        if journals.length < 1
+          has_no_files.push file
+        else
+          has_files.push file
 
   console.log "#{checked_dirs} have been checked"
   if has_no_files.length > 0
@@ -17,4 +21,8 @@ fs.readdir __dirname, (err, files)->
     for journal in has_no_files
       console.log journal.blue
     console.log String(has_no_files.length).red + "/" + String(checked_dirs).green
+    console.log "These are complete".green.bold
+    for journal in has_files
+      console.log journal.green
+
 
