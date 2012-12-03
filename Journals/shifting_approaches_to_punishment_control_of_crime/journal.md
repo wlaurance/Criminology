@@ -18,4 +18,10 @@ gave them the ability to not suffer 'labeling' by a conviction.
 FGR is just one way the punishment control can shift. I believe for non
 hardened criminals, a different approach needs to be taken. Similar to
 Europe, the U.S. needs to not treat simple drug charges as if the person
-has commited murder or another violent crime.
+has commited murder or another violent crime. 
+
+It is interesting to reflect back on the first weeks of class and think
+about the self reporting surveys. Those surveys concluded that everyone
+does something wrong or illegal big or small in their lifetime at least
+once. Are all of those actions worthy of incarceration or capital
+punishment?
