@@ -16,13 +16,12 @@ fs.readdir __dirname, (err, files)->
           has_files.push file
 
   console.log "#{checked_dirs} have been checked"
-  if has_no_files.length > 0
-    console.log String(checked_dirs - has_no_files.length).green + "/" + String(checked_dirs).green + ' complete'
-    console.log "Some journal entries are missing".red
-    for journal in has_no_files
-      console.log journal.blue
-    console.log "These are complete".green.bold
-    for journal in has_files
-      console.log journal.green
+  console.log String(checked_dirs - has_no_files.length).green + "/" + String(checked_dirs).green + ' complete'
+  console.log "Some journal entries are missing".red
+  for journal in has_no_files
+    console.log journal.blue
+  console.log "These are complete".green.bold
+  for journal in has_files
+    console.log journal.green
 
 
