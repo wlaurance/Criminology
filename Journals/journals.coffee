@@ -3,7 +3,7 @@ colors = require 'colors'
 async = require 'async'
 {wc} = require 'wc'
 
-WC_LINE_LIMIT = 60
+WC_LINE_LIMIT = process.env.WC_LINE_LIMIT || 60
 
 fs.readdir __dirname, (err, files)->
   has_no_files = []

@@ -32,5 +32,16 @@ rationalize those actions.
 
 Rational Choice Theory upon initial inspection, appears to target the
 individual, but it becomes a more interesting theory when the
-environment limits the choices the individual has.
+environment limits the choices the individual has. I am always torn on
+the argument of nature versus nurture but I like to think both have a
+role in the decisions people make. A particular environment will make
+most people hostile but some might break before others because of
+certain traits cause this to happen. 
+
+Deterrence is a way to affect people's TRDM process or how they come to
+rationalize a particular action. By having the overhanging idea of
+deterrence whether it be incarceration, shaming, or other punishment
+these sanctions are intended to deter people from committing a
+particular action.
+
 
