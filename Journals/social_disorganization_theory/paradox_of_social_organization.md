@@ -1,6 +1,7 @@
-#The Paradox of Social Organization
+The Paradox of Social Organization
+----------------------------------
 
-Thu Nov  8 14:55:51 EST 2012
+Week 8
 
 Neighboorhood crime is an interesting topic because the social
 organization and social structure can sometimes facilitate crime and
