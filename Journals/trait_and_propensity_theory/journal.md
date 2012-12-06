@@ -41,3 +41,19 @@ wise to law enforcement tactics and reduced their risks of being caught.
 I think this is why there exists a steeper drop off in the crime age
 curve. Propensity theory is a theory I support because for what ever
 reasons people differ in their levels of propensity to commit crimes. 
+
+###Trait Theory
+
+The second topic is trait theory. One passage from *Control Theories of
+Crime and Deliquency* I found somewhat confusing. It reads, "The
+diagnostic between psychopathy and self-control is alarming, and both
+constructs denote a generally problematic disposition that does not lead
+to happy endings". How do we know 100% that if one doesn't follow a life
+plan or is unresponsive to relationships that they will have criminal
+tendencies. The idea of a psychopath always resulting in a life of crime
+seems naive. What if a psychopath used her abilities of to build a large
+business because she was able to manipulate the right people? I suppose
+this type of person might not meet the true definition of a psychopath
+but I believe it does.
+
+
