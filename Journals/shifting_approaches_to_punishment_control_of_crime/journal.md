@@ -1,4 +1,7 @@
-#Shifting Approaches to Punishment Control of Crime
+Shifting Approaches to Punishment Control of Crime
+--------------------------------------------------
+
+Week 10
 
 America loves the death penalty. Growing up in Virginia, I observed a
 competition like environment for how many convicts were executed. The
