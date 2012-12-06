@@ -1,7 +1,7 @@
-The Challenges Posed by Propensity Theory
-=========================================
+ Propensity Theory
+-----------------------
 
-10/14/2012
+Week 3
 
 What is a career criminal? Most career criminals develop at a young age
 and some people even believe that the criminal is born into a life a
