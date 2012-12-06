@@ -1,5 +1,6 @@
 Rational Choice Deterrence Theories
 -----------------------------------
+
 Week 4
 
 Do people really weigh all of their options before preforming a specific

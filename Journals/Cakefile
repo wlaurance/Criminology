@@ -1,0 +1,23 @@
+fs = require 'fs'
+async = require 'async'
+
+task 'compile', '', ->
+
+  fs.readdir __dirname, (err, files)->
+    iterator = (file, cb)->
+      unless file in ['node_modules']
+        if (fs.statSync __dirname + "/#{file}").isDirectory()
+          journals = fs.readdirSync __dirname + "/#{file}"
+          if journals.length < 1
+            cb()
+          else
+            fs.readFile __dirname + "/#{file}/journal.md", (err, data)->
+              lines = data.toString().split '\n'
+              console.log(lines[3])
+        else
+          cb()
+      else
+        cb()
+
+    async.forEach files, iterator, (err)->
+

@@ -1,5 +1,6 @@
 Anomie Strain Theory
 --------------------
+
 Week 9
 
 Anomie strain theory points to the individual as causes of crime. In

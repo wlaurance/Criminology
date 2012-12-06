@@ -1,5 +1,6 @@
 Social Control Theory & Self-Control Theory
 -------------------------------------------
+
 Week 5
 
 Bill McCarthy and Teresa Casey's article "Love, Sex, and Crime:

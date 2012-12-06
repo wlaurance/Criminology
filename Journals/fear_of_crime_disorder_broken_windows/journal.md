@@ -1,5 +1,6 @@
 Fear of Crime Disorder Broken Windows
 -------------------------------------
+
 Week 7
 
 The fear of crime is an interesting variable in the amount of crime
