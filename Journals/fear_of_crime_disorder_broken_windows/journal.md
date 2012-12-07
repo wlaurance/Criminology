@@ -39,4 +39,8 @@ modules in the program.
 
 However, if I am broken window policing my code, if I find many
 offenders, I will become suspicious that there are larger problems that
-have already slipped through the cracks.
+have already slipped through the cracks. This increase in 'code
+policing' will often times make my co workers more fearful of 'crime' in
+the code. Although this fear doesn't have the same effects of fear for
+your physical safety, it certainly does give fear for the reputation of
+one's business, grade (if its a school project), or monetary success.
