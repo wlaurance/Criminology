@@ -6,8 +6,7 @@ _ = require 'underscore'
 task 'compile', '', ->
 
   rm = spawn 'rm', [__dirname + '/compiled.md']
-  rm.on 'exit', ->
-    compile()
+  rm.on 'exit', compile
 
 compile = ->
   buffers = []
