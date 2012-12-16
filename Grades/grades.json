@@ -22,11 +22,11 @@
       {
          "max" : 100,
          "name" : "exam 3",
-         "score" :"86"
+         "score" :"100"
       }
    ],
    "fishbowl" : {
       "max" : 60,
-      "score" : 60
+      "score" : 55.8
    }
 }
