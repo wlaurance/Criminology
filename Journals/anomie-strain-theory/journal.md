@@ -1,5 +1,6 @@
 Anomie Strain Theory
 --------------------
+
 Week 9
 
 Anomie strain theory points to the individual as causes of crime. In
@@ -32,7 +33,8 @@ charges.
 
 I know Larry and I both want monetary success. I could have easily
 gratified myself in the drug trade with Larry but I chose a different
-path.
+path. We faced similar roadblocks and hurdles but in the end our paths
+diverged.
 
 I believe the biggest reasons for the divergent paths is Larry and I's
 different social structure. Larry did not have the best home life. His
@@ -43,3 +45,17 @@ This is a good example of what Merton believes, "...Merton argued that the
 system of stratification in the United States is  a source of both social
 and income inequality." Larry simply innovated in a deviant way to
 achieve his American Dream.
+
+One section I found interesting was the "Personal Traits of Conditioning
+Variables". I find it intriguing that we can lump human traits into a
+master set of variables or a top 5. Negative emotionality is most most
+relevant to GST. I feel that negative emotionality is more of a gateway
+that allows the other traits to overtake the person. That said I believe
+that constraint should be the 'master variable'. 
+
+I feel that the future with strain theory will highly rely on
+advancements in computing and biology, particularly high performance
+cluster computing and the human genome project. Rather than these 5
+master traits, which are most likely caused by specific genes and
+environmental factors, we will be able to analyze people and better
+predict their traits and their likeness to commit crimes.

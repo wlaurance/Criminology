@@ -1,7 +1,7 @@
 Rand & Rennison Accounting for NCVS & UCR Differences
-=====================================================
+-----------------------------------------------------
 
-08-29-12
+Week 1
 
 The UCR and NCVS are two sources of crime data. Living in relatively low
 crime area, my family and I have never been selected for the NCVS
@@ -33,3 +33,14 @@ crime rate estimates. Using the Apple and Oranges metaphor, UCR and NCVS
 are two different things that cannot be compared as the same type of
 object. Thus we must look at each one with its own perspective
 independent of the other.
+
+I am confused on why we believe that NCVS can really be representative
+for our entire country when it comes to crimes because only around
+100,000 people are surveyed. We have over 300 million people. Even if we
+achieve a 'representative' sample there can still be a large number of
+discrepancies. 
+
+I believe in the next few decades, along with the development of smart
+phones, computers, and larger networks we will be able to achieve a real
+time crime profile rather than relying on older methods such as the
+NCVS.

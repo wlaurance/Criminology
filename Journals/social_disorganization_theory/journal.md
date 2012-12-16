@@ -1,8 +1,9 @@
-#The Paradox of Social Organization
+The Paradox of Social Organization
+----------------------------------
 
-Thu Nov  8 14:55:51 EST 2012
+Week 8
 
-Neighboorhood crime is an interesting topic because the social
+Neighborhood crime is an interesting topic because the social
 organization and social structure can sometimes facilitate crime and
 make it worth while to the offender to invoke these crimes.
 
@@ -14,7 +15,7 @@ in Chicago where a lot of neighborhoods are crime stricken.
 
 I find interesting Whyte's 1937 classic account of an Itailian American
 community in Boston showed that active/dense social ties and
-neighborhood attachment promostes the regulation of local crime. I would
+neighborhood attachment promotes the regulation of local crime. I would
 think that close neighborhood ties would led to peace and little crime
 for said neighborhood. Wilson adds to this to say in low social control
 neighborhoods, networks serve to disseminate potentially detrimental
@@ -25,7 +26,7 @@ as conducive to promoting positive social outcomes."
 
 I suppose this makes sense. If you live in neighborhood where the Adults
 are ex-felons, criminals, and just bad people, the children in the
-neighborhood who make bonds with these people, their neightbors, are
+neighborhood who make bonds with these people, their neighbors, are
 likely to fall into the same patterns of crime and bad behavior.
 
 Cultural transmission works well in favor of crime for network density
@@ -38,5 +39,12 @@ calling the police a parent would contact the 'offenders' parent and
 handle it that way. In some instances the kid learned and did not
 offend anymore. There were a few kids in my neighborhood that perhaps
 if the cops punished them they would not be in jail today.
+
+Luckily I lived in a neighborhood growing up that had a lot of positive
+influences. We had a large range of people including newly weds to older
+retired couples. There were children living in the neighborhood from
+just born to 25+ and for the most part everyone was a great influence.
+Thus our neighborhood had a positive cultural transmission that did not
+promote deviant behavior.
 
 

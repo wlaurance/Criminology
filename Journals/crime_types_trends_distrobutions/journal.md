@@ -1,7 +1,7 @@
 Racial Descrimination of Disproportionate Offending
-===================================================
+---------------------------------------------------
 
-9/28/2012
+Week 2
 
 Racial discrimination is very prevalent. If not actual discrimination is
 occurring, then the perception of it certainly is. Growing up any black

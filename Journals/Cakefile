@@ -1,0 +1,39 @@
+fs = require 'fs'
+async = require 'async'
+_ = require 'underscore'
+{spawn} = require 'child_process'
+
+task 'compile', '', ->
+
+  rm = spawn 'rm', [__dirname + '/compiled.md']
+  rm.on 'exit', compile
+
+compile = ->
+  buffers = []
+  fs.readdir __dirname, (err, files)->
+    iterator = (file, cb)->
+      unless file in ['node_modules']
+        if (fs.statSync __dirname + "/#{file}").isDirectory()
+          journals = fs.readdirSync __dirname + "/#{file}"
+          if journals.length < 1
+            cb()
+          else
+            fs.readFile __dirname + "/#{file}/journal.md", (err, data)->
+              lines = data.toString().split '\n'
+              buffers.push
+                order:Number lines[3].split(' ')[1]
+                lines:lines.join '\n'
+              cb()
+        else
+          cb()
+      else
+        cb()
+
+    async.forEach files, iterator, (err)->
+      sorted = _.sortBy buffers, 'order'
+      iterator2 = (journal, cb)->
+        fs.appendFile __dirname + '/compiled.md', journal.lines, (err)->
+          cb err
+      async.forEachSeries sorted, iterator2, (err)->
+        console.log 'compiled journals to ' + __dirname + '/compiled.md'
+

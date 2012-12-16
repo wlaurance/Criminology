@@ -1,5 +1,6 @@
 Differential Association and Social Learning
 --------------------------------------------
+
 Week 6
 
 Both of the articles focus around peers and what kind of influence the
